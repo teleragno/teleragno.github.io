@@ -1,6 +1,8 @@
 ---
-layout: default
-title: Teleragno - Fournisseur d'accès internet associatif à Marseille
+layout: page
+title: Teleragno - FAI associatif à Marseille
+header: Teleragno
+tagline: Fournisseur d'accès internet associatif à Marseille
 ---
 {% include JB/setup %}
 
