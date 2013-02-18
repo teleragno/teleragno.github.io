@@ -3,14 +3,14 @@ layout: post
 title: "Assemblée Générale le 22 Décembre à La Bo[a]te "
 description: ""
 category: 
-tags: AG
+tags: ag
 ---
 {% include JB/setup %}
 
 Comme quoi on avait raison d’insister, à force de prendre de nouveaux contacts,
 on a pu planifier une assemblée générale pour Teleragno !
 
-Elle se tiendra le samedi 22 Décembre à 14h, et aura lieu à La Bo[a]te à
+Elle se tiendra le samedi 22 Décembre à 14h, et aura lieu à La Bo\[a\]te à
 Marseille
 
 Grosso modo, l’ordre du jour sera d’abord une présentation de ce que nous
