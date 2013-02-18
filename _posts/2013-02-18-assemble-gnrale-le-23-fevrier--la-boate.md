@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Assemblée Générale le 23 Février à La Bo[a]te "
+title: "Assemblée Générale le 23 Février 2013 à La Bo[a]te "
 description: ""
 category: 
 tags: ag
 ---
 {% include JB/setup %}
 
-L'assemblée Générale ordinaire de Teleragno aura lieu ce samedi 23 Février à La Bo\[a\]te, à 14h.
+L'Assemblée Générale ordinaire de Teleragno aura lieu ce samedi 23 Février à La Bo\[a\]te, à 14h.
 
 L'AG précédente avait pour but de se régulariser après deux ans d'inactivité, et il est maintenant temps de procéder à l'AG normale devant se tenir au premier trimestre de chaque année.
 Nous ferons un point sur l'avancement du projet, sur les péripéties depuis le dernière AG, et nous serions heureux de pouvoir présenter l'association aux curieux qui voudraient s'intéresser au projet.
