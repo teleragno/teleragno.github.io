@@ -10,3 +10,6 @@ tags: ag
 L'assemblée Générale ordinaire de Teleragno aura lieu ce samedi 23 Février à La Bo\[a\]te, à 14h.
 
 L'AG précédente avait pour but de se régulariser après deux ans d'inactivité, et il est maintenant temps de procéder à l'AG normale devant se tenir au premier trimestre de chaque année.
+Nous ferons un point sur l'avancement du projet, sur les péripéties depuis le dernière AG, et nous serions heureux de pouvoir présenter l'association aux curieux qui voudraient s'intéresser au projet.
+
+N'hésitez pas à venir nombreux, que vous soyez profondément geek ou simplement intéressé par l'idée d'une association rendant l'accès à Internet aux citoyens.
