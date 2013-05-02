@@ -23,6 +23,8 @@ D'aabord une typographie, puis la charte graphique ou a défaut des éléments v
 Présentation de 4 typographies réalisées par Ophélie aux présents avec demmande de commentaires.
 
 Quelle est la police de caractères préférées et vos commentaires :
+
+
 |-|-|
 |Floreal|3|
 |Cecile|2|
