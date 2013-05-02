@@ -22,43 +22,47 @@ D'aabord une typographie, puis la charte graphique ou a défaut des éléments v
 
 Présentation de 4 typographies réalisées par Ophélie aux présents avec demmande de commentaires.
 
-Quelle est la police de caractères préférées et vos commentaires :
+Quelle est la police de caractères préférées ?
 
+* Floreal	:	3
+* Cecile	:	2
+* Mayeu	:	4
+* JP	:	4
+* Caro	:	3 & 4
+* Yves	:	3 & 4
 
-|-|-|
-|Floreal|3|
-|Cecile|2|
-|Mayeu|4|
-|JP|4|
-|Caro|3 & 4|
-|Yves|3 & 4|
-
+Vos commentaires sur ces polices ? 
 * Mayeu
-	T a voir
+	T a voir, barre trops courte
 * JP
-	1 trop d'espace
-	2 Voir N et O
-	3 trop fine et remonter le N, typo mettre en Gras
-	4 preference 
+	1 trop d'espace, 
+	2 Voir N et O, 
+	3 trop fine et resserer & rallonger jambe du n , typo à mettre en Gras, 
+	4 preference
 
 Afin d'éviter d'avoir un look identique aux logos déjà existants, nous avons regardé les différents logos présents sur le site de la Fédération.
 
-# Proposition d'éléments à ajouter pour construire le logo
+# Éléments graphiques
+
+Idées en vrac d'éléments visuels utilisable pour construire le logo
 
 * toile d'araignée
 * notion de transfert de données / réseau
 * thème du sud : ex. voile  de bateau, soleil, boussole qui pointe vers le sud ...
 * flèches dynamiques
 
-# Choix d'un trigramme comme abréviation 
+# Trigramme
+
+Choix d'un trigramme comme abréviation.
 
 À l'issue d'un vote, TRG a été sélectionné.
+Nous avons eu chaud, des acronymes tels que TLRGN (teleragno sans voyelle) ou seulement celles-ci, EEAO, ont été évoqués et on remportés un certains succes. Mais heureusement, pas assez.
 
 # Site web, modification, bugs, améliorations
 
 * la licence de diffusion votée par le bureau est : [Creative Commons-BY](http://creativecommons.org/licenses/by/2.0/fr/)
 * ajouter une page de listing des fichiers du site
-* ajouter un paragraphe de présentation de l'asso (repris sur flyer)
+* ajouter un paragraphe de présentation de l'asso (repris sur flyer, selon place disponible)
 	* membres du bureau
 	* informations de contact utile
 	* projets en cours
