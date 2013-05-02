@@ -32,6 +32,7 @@ Quelle est la police de caractères préférées ?
 * Yves	:	3 & 4
 
 Vos commentaires sur ces polices ? 
+
 * Mayeu
 	T a voir, barre trops courte
 * JP
@@ -58,7 +59,9 @@ Choix d'un trigramme comme abréviation.
 À l'issue d'un vote, TRG a été sélectionné.
 Nous avons eu chaud, des acronymes tels que TLRGN (teleragno sans voyelle) ou seulement celles-ci, EEAO, ont été évoqués et on remportés un certains succes. Mais heureusement, pas assez.
 
-# Site web, modification, bugs, améliorations
+# Site web
+
+Il s'agit notamment de lister les modifications, bugs et autres améliorations a apporter
 
 * la licence de diffusion votée par le bureau est : [Creative Commons-BY](http://creativecommons.org/licenses/by/2.0/fr/)
 * ajouter une page de listing des fichiers du site
