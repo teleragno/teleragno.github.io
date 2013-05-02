@@ -27,43 +27,52 @@ tags:
 * Pour sauter une ligne laisser une ligne blanche
 * Pour l'afficher il faut
 
-	$ pandoc -s toto.mkd -o toto.pdf
+		$ pandoc -s toto.mkd -o toto.pdf
 
 * Sous-titre
 
-	## Titre
+		## Titre
 
 * Liste
 
-	*space+texte
+		*<espace><texte>
 
 * Liste de définitions
 
-	titre en maj
-	~tab+texte
+		titre en maj
+		~tab+texte
 
-	Liste numérotée:
-	1.space+texte
-	tab+a.+texte
+* Liste numérotée
 
-	Tableaux:
-	(|=alt gr 6)
+		1.space+texte
+		tab+a.+texte
 
-	| nom | qualité | signature |
-	| - | - | - |
+* Tableaux
+
+		(|=alt gr 6)
+		
+		| nom | qualité | signature |
+		| - | - | - |
+
+(|=alt gr 6)
+
+| nom | qualité | signature |
+| - | - | - |
 
 
-	Ajouts de pandoc à markdown:
-	% titre du truc - titre
-	% toto - auteur
-	% date - date
+* Ajouts de pandoc à markdown
 
-	Ajout d'une image:
-	![texte](chemin du doc)
+		% titre du truc - titre
+		% toto - auteur
+		% date - date
 
-	Note bas de page:
+* Ajout d'une image
+
+		![texte](chemin du doc)
+
+* Note bas de page
+
 	^[note bas de page]
-
 
 # GIT
 
