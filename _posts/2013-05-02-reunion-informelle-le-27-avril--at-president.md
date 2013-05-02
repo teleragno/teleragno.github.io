@@ -11,21 +11,33 @@ tags:
 ---
 {% include JB/setup %}
 
+La réunion a, une fois n'est pas coutume, s'est déroulée dans un autre lieu que la Bo[a]te suite à la demande (compréhensible) de changer un peu d'environnement afin de discuter différemment.
+
 # Logo
+
+Après la proposition de moderniser (refaire) le logo de l'association, notre artiste en chef, nous on concocté un programme pas-à-pas pour y arriver.
+D'aabord une typographie, puis la charte graphique ou a défaut des éléments visuels puis enfin le logo. Comme vous pouvez vous en douter, seuls les points 1 et 2 ont été abordés lors de cette réunion.
 
 ## Typographie
 
-Quelle est la police de caractères préférée et vos commentaires :
-* Floreal 3
-* Cecile 2
-* Mayeu 4 T a voir
+Présentation de 4 typographies réalisées par Ophélie aux présents avec demmande de commentaires.
+
+Quelle est la police de caractères préférées et vos commentaires :
+|-|-|
+|Floreal|3|
+|Cecile|2|
+|Mayeu|4|
+|JP|4|
+|Caro|3 & 4|
+|Yves|3 & 4|
+
+* Mayeu
+	T a voir
 * JP
 	1 trop d'espace
 	2 Voir N et O
 	3 trop fine et remonter le N, typo mettre en Gras
 	4 preference 
-* Caro 3 et 4
-* Yves 3 et 4
 
 Afin d'éviter d'avoir un look identique aux logos déjà existants, nous avons regardé les différents logos présents sur le site de la Fédération.
 
@@ -50,7 +62,10 @@ Afin d'éviter d'avoir un look identique aux logos déjà existants, nous avons 
 	* projets en cours
 	* connexion active
 	* les projets en cours, la roadmap
-* ajouter un paragraphe de présentation des membres (ceux qui le souhaitent) style : <moi><mavie><mon message> 
+* ajouter un paragraphe de présentation des membres (ceux qui le souhaitent) style
+
+	<moi><mavie><mon message>
+
 * corriger la liste des tags
 
 * a été évoqué la possibilité d'utiliser un bug tracker, réponse : non, pas maintenant, pas utile
@@ -78,6 +93,11 @@ Afin d'éviter d'avoir un look identique aux logos déjà existants, nous avons 
 ## Fibre
 
 * voir l'état d'avancement de Grenod sur leur offre fibre.
+
+--
+
+JPierre
+
 
 Notes Perso pour le logo :
 * teleragno travail 
