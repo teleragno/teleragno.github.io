@@ -10,32 +10,35 @@ tags:
 
 # Point de l'outillage
 
-Uniquement du PDF
-Doc de travail texte en brut
-	Présentation de MARKDOWN/PANDOC
-outil de travail collaboratif voir avec GIT
-
+* uniquement du PDF
+* documents de travail texte en brut
+	* présentation de Markdown / Pandoc
+* outil de travail collaboratif & de gestion de version : GIT
 
 # Markdown
 
-* Mode texte brut:
+* texte brut :
 	Fichier MKD qui peut se traduire en PDF, TXT, HTML, Word, docx avec utilisation pandoc
 * Pour les titres
 
-	# Titre 1
-	## Titre 2
+		# Titre 1
+		## Titre 2
+
 * Pour sauter une ligne laisser une ligne blanche
-* Pour l'afficher il faut :
+* Pour l'afficher il faut
 
 	$ pandoc -s toto.mkd -o toto.pdf
 
-	Sous-titre: 
+* Sous-titre
+
 	## Titre
 
-	Liste:
+* Liste
+
 	*space+texte
 
-	Liste de definitions:
+* Liste de définitions
+
 	titre en maj
 	~tab+texte
 
