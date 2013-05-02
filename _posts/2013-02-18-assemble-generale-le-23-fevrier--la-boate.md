@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Assemblée Générale le 23 Février 2013 à La Bo[a]te "
+title: "Assemblée Générale le 23 Février 2013 à La Bo[a]te [annonce]"
 description: ""
 category: 
 tags: ag
