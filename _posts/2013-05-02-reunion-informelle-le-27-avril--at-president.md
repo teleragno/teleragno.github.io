@@ -1,6 +1,15 @@
-% Reunion
-% 27/04/13
-% Teleragno
+---
+layout: post
+title: "Réunion informelle le 27 Avril 2013 chez Président"
+description: ""
+category: 
+tags: 
+  - ffdn
+  - adsl
+  - wifi
+  - logo
+---
+{% include JB/setup %}
 
 # Logo
 
@@ -18,7 +27,7 @@ Quelle est la police de caractères préférée et vos commentaires :
 * Caro 3 et 4
 * Yves 3 et 4
 
-Afin d'éviter d'avoir un look identique aux logos déjà existants, nous avons regardé les différents logos présents sur le site de ffdn.
+Afin d'éviter d'avoir un look identique aux logos déjà existants, nous avons regardé les différents logos présents sur le site de la Fédération.
 
 # Proposition d'éléments à ajouter pour construire le logo
 
