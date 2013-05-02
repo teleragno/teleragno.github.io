@@ -16,16 +16,16 @@ La réunion a, une fois n'est pas coutume, s'est déroulée dans un autre lieu q
 # Logo
 
 Après la proposition de moderniser (refaire) le logo de l'association, notre artiste en chef, nous on concocté un programme pas-à-pas pour y arriver.
-D'aabord une typographie, puis la charte graphique ou a défaut des éléments visuels puis enfin le logo. Comme vous pouvez vous en douter, seuls les points 1 et 2 ont été abordés lors de cette réunion.
+D'abord une typographie, puis la charte graphique ou a défaut des éléments visuels puis enfin le logo. Comme vous pouvez vous en douter, seuls les points 1 et 2 ont été abordés lors de cette réunion.
 
 ## Typographie
 
-Présentation de 4 typographies réalisées par Ophélie aux présents avec demmande de commentaires.
+Présentation de 4 typographies réalisées par Ophélie aux présents avec demande de commentaires.
 
 Quelle est la police de caractères préférées ?
 
-* Floreal	:	3
-* Cecile	:	2
+* Floréal	:	3
+* Cécile	:	2
 * Mayeu	:	4
 * JP	:	4
 * Caro	:	3 & 4
@@ -34,12 +34,12 @@ Quelle est la police de caractères préférées ?
 Vos commentaires sur ces polices ? 
 
 * Mayeu
-	T a voir, barre trops courte
+	T a voir, barre trop courte
 * JP
 	1 trop d'espace, 
 	2 Voir N et O, 
-	3 trop fine et resserer & rallonger jambe du n , typo à mettre en Gras, 
-	4 preference
+	3 trop fine et resserrer & rallonger jambe du n , typo à mettre en Gras, 
+	4 préférence
 
 Afin d'éviter d'avoir un look identique aux logos déjà existants, nous avons regardé les différents logos présents sur le site de la Fédération.
 
@@ -57,7 +57,7 @@ Idées en vrac d'éléments visuels utilisable pour construire le logo
 Choix d'un trigramme comme abréviation.
 
 À l'issue d'un vote, TRG a été sélectionné.
-Nous avons eu chaud, des acronymes tels que TLRGN (teleragno sans voyelle) ou seulement celles-ci, EEAO, ont été évoqués et on remportés un certains succes. Mais heureusement, pas assez.
+Nous avons eu chaud, des acronymes tels que TLRGN (teleragno sans voyelle) ou seulement celles-ci, EEAO, ont été évoqués et on remportés un certains succès. Mais heureusement, pas assez.
 
 # Site web
 
@@ -79,18 +79,18 @@ Il s'agit notamment de lister les modifications, bugs et autres améliorations a
 
 * a été évoqué la possibilité d'utiliser un bug tracker, réponse : non, pas maintenant, pas utile
 * afin d'assurer une meilleure qualité de service sur le service web & mail
-	* migration du site web & git sur une machine de mayeu
-	ce qui transfèrerait ces services sur une machine en salles machine.
+	* migration du site web & git sur une machine de Mayeu
+	ce qui transférerait ces services sur une machine en salles machine.
 
 # Moyen d'accès au réseau
 
-## Wifi
+## WiFi
 
-* récap de la réunion précédente au Plug, nottament l'idée d'utiliser du WiFi comme coeur de réseau.
+* récapitulatif de la réunion précédente au Plug, notamment l'idée d'utiliser du WiFi comme coeur de réseau.
 * question 1 : quid de la latence réelle sur de grandes distances ?
 	* demander à Tetaneutral (Toulouse)
 * question 2 : et quel point de sortie ?
-* question 3 : quid pérénité de la connexion lié aux pb d'infra (noeud qui disparaît, syndic)
+* question 3 : quid pérennité de la connexion lié aux problèmes d'infra (noeud qui disparaît, syndic)
 * avantage 1 : débit ajustable & symétrique
 
 --> à rediscuter plus tard
