@@ -107,9 +107,3 @@ Il s'agit notamment de lister les modifications, bugs et autres améliorations a
 
 JPierre
 
-
-Notes Perso pour le logo :
-* teleragno travail 
-* Idée voir le logo FRANCILIENS...
-* TRG = typo 4 mettre en entier Teleragno en Franciliens... (Mayeu)
-
