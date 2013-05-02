@@ -1,4 +1,14 @@
-Point de l'outillage :
+---
+layout: post
+title: "Assemblée générale le 23 Février 2013 à la Bo[a]te"
+description: ""
+category: 
+tags: 
+  - ag
+---
+{% include JB/setup %}
+
+# Point de l'outillage
 
 Uniquement du PDF
 Doc de travail texte en brut
@@ -6,73 +16,76 @@ Doc de travail texte en brut
 outil de travail collaboratif voir avec GIT
 
 
-MARKDOWN :
+# Markdown
 
-Mode texte brut:
-Fichier MKD qui peut se traduire en PDF, TXT, HTML, Word, docx
-avec utilisation pandoc
+* Mode texte brut:
+	Fichier MKD qui peut se traduire en PDF, TXT, HTML, Word, docx avec utilisation pandoc
+* Pour les titres
 
-Pour les titres:
-# Titre 1
-## Titre 2
+	# Titre 1
+	## Titre 2
+* Pour sauter une ligne laisser une ligne blanche
+* Pour l'afficher il faut :
 
-Pour sauter une ligne laisser une ligne blanche
+	$ pandoc -s toto.mkd -o toto.pdf
 
-Pour l'afficher il faut :
-$ pandoc -s toto.mkd -o toto.pdf
+	Sous-titre: 
+	## Titre
 
-Sous-titre: 
-## Titre
+	Liste:
+	*space+texte
 
-Liste:
-*space+texte
+	Liste de definitions:
+	titre en maj
+	~tab+texte
 
-Liste de definitions:
-titre en maj
-~tab+texte
+	Liste numérotée:
+	1.space+texte
+	tab+a.+texte
 
-Liste numérotée:
-1.space+texte
-tab+a.+texte
+	Tableaux:
+	(|=alt gr 6)
 
-Tableaux:
-(|=alt gr 6)
-
-| nom | qualité | signature |
-| - | - | - |
+	| nom | qualité | signature |
+	| - | - | - |
 
 
-Ajouts de pandoc à markdown:
-% titre du truc - titre
-% toto - auteur
-% date - date
+	Ajouts de pandoc à markdown:
+	% titre du truc - titre
+	% toto - auteur
+	% date - date
 
-Ajout d'une image:
-![texte](chemin du doc)
+	Ajout d'une image:
+	![texte](chemin du doc)
 
-Note bas de page:
-^[note bas de page]
-
-
-
-GIT:
-
-$ git init (créer un dossier, dépôt,local)
-$ git status (voir les dossiers)
-$ git ad toto.mkd (ajout ds la liste des fichiers du dossier)
-$ git commit -m "premier commit" (indiquer la modif faite pour ne pas avoir à ouvrir le doc à chaque fois)
-$ vim .gitignore (exclure certains types de fichiers par leur extension/nom)
-commit le gitignore pour que tout le monde ait accès à la liste de fichiers à exclure:
-$ git add .gitignore
-$ git commit -m "ajout de gitignore"
+	Note bas de page:
+	^[note bas de page]
 
 
-Clone d'un dépôt:
-$ git clone + adresse dépôt
+# GIT
 
-Modif fichier:
-$ vim toto.mkd
-+ commit
+* commandes usuelles
 
-Push de la branche vers Origin:
-$ git push origin
+	$ git init (créer un dossier, dépôt,local)
+	$ git status (voir les dossiers)
+	$ git ad toto.mkd (ajout ds la liste des fichiers du dossier)
+	$ git commit -m "premier commit" (indiquer la modif faite pour ne pas avoir à ouvrir le doc à chaque fois)
+	$ vim .gitignore (exclure certains types de fichiers par leur extension/nom)
+	commit le gitignore pour que tout le monde ait accès à la liste de fichiers à exclure:
+	$ git add .gitignore
+	$ git commit -m "ajout de gitignore"
+
+
+* clone d'un dépôt
+
+	$ git clone + adresse dépôt
+
+* modification de fichier
+
+	$ vim toto.mkd
+	+ commit
+
+* push de la branche vers origin:
+
+	$ git push origin
+
