@@ -1,0 +1,78 @@
+Point de l'outillage :
+
+Uniquement du PDF
+Doc de travail texte en brut
+	Présentation de MARKDOWN/PANDOC
+outil de travail collaboratif voir avec GIT
+
+
+MARKDOWN :
+
+Mode texte brut:
+Fichier MKD qui peut se traduire en PDF, TXT, HTML, Word, docx
+avec utilisation pandoc
+
+Pour les titres:
+# Titre 1
+## Titre 2
+
+Pour sauter une ligne laisser une ligne blanche
+
+Pour l'afficher il faut :
+$ pandoc -s toto.mkd -o toto.pdf
+
+Sous-titre: 
+## Titre
+
+Liste:
+*space+texte
+
+Liste de definitions:
+titre en maj
+~tab+texte
+
+Liste numérotée:
+1.space+texte
+tab+a.+texte
+
+Tableaux:
+(|=alt gr 6)
+
+| nom | qualité | signature |
+| - | - | - |
+
+
+Ajouts de pandoc à markdown:
+% titre du truc - titre
+% toto - auteur
+% date - date
+
+Ajout d'une image:
+![texte](chemin du doc)
+
+Note bas de page:
+^[note bas de page]
+
+
+
+GIT:
+
+$ git init (créer un dossier, dépôt,local)
+$ git status (voir les dossiers)
+$ git ad toto.mkd (ajout ds la liste des fichiers du dossier)
+$ git commit -m "premier commit" (indiquer la modif faite pour ne pas avoir à ouvrir le doc à chaque fois)
+$ vim .gitignore (exclure certains types de fichiers par leur extension/nom)
+commit le gitignore pour que tout le monde ait accès à la liste de fichiers à exclure:
+$ git add .gitignore
+$ git commit -m "ajout de gitignore"
+
+
+Clone d'un dépôt:
+$ git clone + adresse dépôt
+
+Modif fichier:
+$ vim toto.mkd
++ commit
+
+Push de la branche vers Origin:
+$ git push origin
