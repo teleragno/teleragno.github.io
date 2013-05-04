@@ -11,8 +11,7 @@ tags:
 # Point de l'outillage
 
 * uniquement du PDF
-* documents de travail texte en brut
-	* présentation de Markdown / Pandoc
+* documents de travail texte en brut : présentation de Markdown et de Pandoc
 * outil de travail collaboratif & de gestion de version : GIT
 
 # Markdown
