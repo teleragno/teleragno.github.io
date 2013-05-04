@@ -17,7 +17,7 @@ l'association :
 ## FFDN & Marque blanche
 
 Nous avons envoyé à la fin du mois de Mars les papiers nécessaire pour
-l'adhésion à [FFDN](http://www.ffdn.org/), [[Avancement du vote]](https://vote.ffdn.org/vote/12) et à la marque blanche
+l'adhésion à [FFDN](http://www.ffdn.org/), [\[Avancement du vote\]](https://vote.ffdn.org/vote/12) et à la marque blanche
 [FDN](http://www.fdn.org/). Nous devrions recevoir une réponse au plus tard fin
 Mai ou début Juin, après quoi nous pourrons commencer à déployer des accès à
 internet sur Marseille
