@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Assemblée générale le 23 Février 2013 à la Bo[a]te"
+title: "Assemblée générale le 23 Février 2013 à la La Bo[a]te"
 description: ""
-category: 
-tags: 
+category:
+tags:
   - ag
 ---
 {% include JB/setup %}
@@ -49,7 +49,7 @@ tags:
 
 * Tableaux
 	pour réaliser le caractère |, utilisez la combinaison de touches < alt gr > + < 6 >
-		
+
 		| nom | qualité | signature |
 		| - | - | - |
 
