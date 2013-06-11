@@ -90,7 +90,9 @@ Il s'agit notamment de lister les modifications, bugs et autres améliorations a
 
 * récapitulatif de la réunion précédente au [Plug](http://plugfr.org/), notamment l'idée d'utiliser du WiFi comme coeur de réseau.
 * question 1 : quid de la latence réelle sur de grandes distances ?
-	* demander à [Tetaneutral / toulouse-sans-fil](http://wiki.tetaneutral.net/index.php/Wifi) (Toulouse)
+
+	-->  demander à [Tetaneutral / toulouse-sans-fil](http://wiki.tetaneutral.net/index.php/Wifi) (Toulouse)
+
 * question 2 : et quel point de sortie ?
 * question 3 : quid pérennité de la connexion lié aux problèmes d'infra (noeud qui disparaît, syndic)
 * avantage 1 : débit ajustable
@@ -105,9 +107,10 @@ Il s'agit notamment de lister les modifications, bugs et autres améliorations a
 
 ## Fibre
 
-* voir l'état d'avancement de [Grenode](http://www.grenode.net/) sur leur offre fibre (évoquée par un participant aux [JM2L 2012]() ).
-    * Grenode utilise [un numéro d'AS routé](http://as.robtex.com/as51083.html).
-    * Grenode ne semble pas être opérateur ce qui est surprenant. Une erreur dans le fichier de l'ARCEP ?[[le fichier d''avril 2012 (.xls)]](http://www.arcep.fr/fileadmin/operateurs/liste-operateurs-declares.xls)  ou [[le même (.xls)]](http://www.teleragno.fr/assets/files/2012/04/arcep-liste-operateurs-declares.xls)
+Voir l'état d'avancement de [Grenode](http://www.grenode.net/) sur leur offre fibre (évoquée par un participant aux [JM2L 2012](http://jm2l.linux-azur.org/jm2l-2012-merci-vous) ).
+
+* Grenode utilise [un numéro d'AS routé](http://as.robtex.com/as51083.html).
+* Grenode ne semble pas être opérateur ce qui est surprenant. Une erreur dans le fichier de l'ARCEP ?[le fichier en avril 2012 (.xls)](http://www.arcep.fr/fileadmin/operateurs/liste-operateurs-declares.xls) ou [le même (.xls)](http://www.teleragno.fr/assets/files/2012/04/arcep-liste-operateurs-declares.xls)
 
 --
 
