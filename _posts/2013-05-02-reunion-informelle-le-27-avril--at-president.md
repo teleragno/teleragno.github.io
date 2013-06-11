@@ -107,7 +107,7 @@ Il s'agit notamment de lister les modifications, bugs et autres améliorations a
 
 * voir l'état d'avancement de [Grenode](http://www.grenode.net/) sur leur offre fibre (évoquée par un participant aux [JM2L 2012]() ).
     * Grenode utilise [un numéro d'AS routé](http://as.robtex.com/as51083.html).
-    * Grenode ne semble pas être opérateur ce qui est surprenant. Une erreur dans le fichier de l'ARCEP ?[[le fichier d'avril 2012 (.xls)]](http://www.arcep.fr/fileadmin/operateurs/liste-operateurs-declares.xls)  ou [[le même (.xls)]](http://www.teleragno.fr/assets/files/2012/04/arcep-liste-operateurs-declares.xls)
+    * Grenode ne semble pas être opérateur ce qui est surprenant. Une erreur dans le fichier de l'ARCEP ?[[le fichier d''avril 2012 (.xls)]](http://www.arcep.fr/fileadmin/operateurs/liste-operateurs-declares.xls)  ou [[le même (.xls)]](http://www.teleragno.fr/assets/files/2012/04/arcep-liste-operateurs-declares.xls)
 
 --
 
