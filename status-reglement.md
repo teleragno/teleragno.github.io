@@ -9,5 +9,5 @@ group: navigation
 
 * Les status : [en PDF](assets/files/statuts_teleragno.pdf)
 
-* Le Règlement intérieur : [en PDF]()
+* Le Règlement intérieur : [en PDF](assets/files/reglement_teleragno.pdf)
 
