@@ -13,3 +13,8 @@ Elle s'inscrit dans le mouvement des FAI locaux, mouvement initié par [FDN](htt
 Depuis juin 2013, Teleragno est membre de la [Fédération FDN](http://www.ffdn.org).
 Cette fédération regroupe différents FAI^[Fournisseurs d'accès à Internet] associatifs.
 
+Pour nous contacter, 2 moyens différents :
+
+* la liste de diffusion
+* IRC : irc://irc.teleragno.fr/#teleragno
+
