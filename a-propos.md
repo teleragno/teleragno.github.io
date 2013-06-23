@@ -16,5 +16,5 @@ Cette fédération regroupe différents FAI^[Fournisseurs d'accès à Internet] 
 Pour nous contacter, 2 moyens différents :
 
 * la liste de diffusion
-* IRC : irc://irc.teleragno.fr/#teleragno
+* IRC : [irc://irc.teleragno.fr/#teleragno](irc://irc.teleragno.fr/#teleragno)
 
