@@ -24,22 +24,19 @@ Comme vous pouvez vous en douter, seuls les points 1 et 2 ont été abordés lor
 Présentation de 4 typographies réalisées par Ophélie aux présents avec demande de commentaires.
 
 * Quelle est la police de caractères préférées ?
-    * Floréal	:	3
-    * Cécile	:	2
-    * Mayeu	:	4
-    * JP	:	4
-    * Caro	:	3 & 4
-    * Yves	:	3 & 4
-
+	* Floréal	:	3
+	* Cécile	:	2
+	* Mayeu	:	4
+	* JP	:	4
+	* Caro	:	3 & 4
+	* Yves	:	3 & 4
 * Vos commentaires sur ces polices ?
-
-    * Mayeu :
-        typo 3. T a voir, barre trop courte
-    * JP
-	    typo 1) trop d'espace,
-	    typo 2) faible différenciation entre N et O,
-	    typo 3) trop fine et resserrer & rallonger jambe du n , typo à mettre en Gras,
-	    typo 4) encore quelques points à lisser (les jonctions notamment)
+	* Mayeu	: typo 3) lettre T a voir, barre trop courte
+	* JP	:
+		* typo 1) trop d'espace,
+		* typo 2) faible différenciation entre N et O,
+		* typo 3) trop fine et resserrer & rallonger jambe du n , typo à mettre en Gras,
+		* typo 4) encore quelques points à lisser (les jonctions notamment)
 
 Afin d'éviter d'avoir un look identique aux logos déjà existants, nous avons regardé les différents logos présents sur le site de la Fédération.
 
