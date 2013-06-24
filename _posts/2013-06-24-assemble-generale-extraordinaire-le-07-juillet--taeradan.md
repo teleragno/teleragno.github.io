@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Assemblée Générale extraordinare le 7 Juillet 2013 chez taeraden"
+title: "Assemblée Générale extraordinare le 7 Juillet 2013 chez taeradan [annonce]"
 description: ""
 category: 
 tags: []
@@ -31,4 +31,8 @@ Je citerai donc une partie de ce
 > personnes se sentant capables/motivées. Le but est d'éviter les lourdeurs
 > dues aux départs de personnes, et de dynamiser l'association en permettant à
 > importe quel membre de s'occuper d'une tâche administrative.
+
+--
+
+taeradan & floréal
 
