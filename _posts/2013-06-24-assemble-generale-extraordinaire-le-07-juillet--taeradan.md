@@ -7,7 +7,7 @@ tags: []
 ---
 {% include JB/setup %}
 
-Une nouvelle Assemblée générale aura lieu chez notre président dans quelques semaines.
+Une nouvelle Assemblée Générale aura lieu chez notre président dans quelques semaines.
 Ne prenez pas peur rien de grave, c'est le nom que l'on donne simplement a une Assembleée Générale qui n'est pas prévue dans les status.
 Je citerai donc [une partie de ce message](http://lists.teleragno.fr/pipermail/teleragno/2013-June/000059.html):
 
