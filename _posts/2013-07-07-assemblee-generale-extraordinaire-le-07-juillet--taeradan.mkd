@@ -70,7 +70,7 @@ Hors France, il existe de nombreux opérateur Wifi commerciaux (W-ISP^[WISP : Wi
 * Alimentation de points d'accès
 	* PoE, Solaire, Alim sur prise électrique standard
 
-* [Outil de ](www.ubmt.com/airlink) / Ubiquiti
+* [Outil d'aide à la décision de placement de réseau Wifi ](www.ubmt.com/airlink) / Ubiquiti
 
 * envisagé : trouver des subventions pour l'installation du matériel
 
