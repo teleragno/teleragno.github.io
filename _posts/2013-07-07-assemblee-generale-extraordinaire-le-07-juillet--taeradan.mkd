@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Assemblée Générale extraordinare le 7 Juillet 2013 chez taeradan"
+title: "Assemblée Générale extraordinaire le 7 Juillet 2013 chez taeradan"
 description: ""
 category: 
 tags: []
@@ -14,14 +14,14 @@ tags: []
 * Jean-Pierre
 * Cécile
 * Caroline
-* Mathieu
+* Matthieu
 * Arnaud
 * Floréal
 * Danielle (Maman Floréal)
 
 # Passages habituels
 
-* revue des élements faits depuis la dernière réunion
+* revue des éléments faits depuis la dernière réunion
 * présentation de l'activité d'un FAI & de la fédération FDN (nouvel adhérent)
 * présentation bilan financier (recettes = adhésions, dépenses : frais de gestion bancaires)
 * envoyer courrier (cotisations)
@@ -31,7 +31,7 @@ tags: []
 * Série de logo avec une toile
 	* caro : 1er logo, 1er tri
 	* mayeu : 2e, 4e
-	* floreal : 1e, 4e, 
+	* floréal : 1e, 4e, 
 		* idée : mettre la toile dans le O et faire pendre l'araignée du T
 		* idée : mettre la toile dans le G et faire pendre l'araignée du T : yves +1, ophélie +1
 	* ophélie : idée métro, transformer l'araignée en port réseau/usb
@@ -88,8 +88,8 @@ Hors France, il existe de nombreux opérateur Wifi commerciaux (W-ISP^[WISP : Wi
 
 # Organisation
 
-* Démission de Mathieu de son poste de trésorier ainsi que son rôle de membre du bureau.
-* Démission de Mathieu de son poste de secrétaire, mais conserve son rôle de membre du bureau.
+* Démission de Matthieu de son poste de trésorier ainsi que son rôle de membre du bureau.
+* Démission de Matthieu de son poste de secrétaire, mais conserve son rôle de membre du bureau.
 * Floréal, Ophélie, jpierre se positionne comme membre du bureau.
 * le président nomme floréal comme trésorier et jpierre comme secrétaire.
 	Il y a donc cinq membres dans le bureau.
@@ -100,7 +100,7 @@ Hors France, il existe de nombreux opérateur Wifi commerciaux (W-ISP^[WISP : Wi
 * vérifier avec FFDN ou FDN que le contrat de collecte part bien par courrier normal (non recommandé)
 * voir les besoins pour baisser les frais bancaires
 * imprimer les CR d'AG pour signature
-* présicer dans les documents la signification/traduction de Teleragno
+* préciser dans les documents la signification/traduction de Teleragno
 * ajouter la liste des services au site web.
 
 --
