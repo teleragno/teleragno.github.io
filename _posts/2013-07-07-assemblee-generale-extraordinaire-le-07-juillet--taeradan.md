@@ -7,7 +7,7 @@ tags: []
 ---
 {% include JB/setup %}
 
-Le présent document a pour vocation de servir de compte rendu de l'Assembleée Générale Extraordinaire qui s'est tenue le samedi 7 juillet 2013.
+Le présent document a pour vocation de servir de compte rendu de l'Assemblée Générale Extraordinaire qui s'est tenue le samedi 7 juillet 2013.
 
 # Présents
 
@@ -32,15 +32,15 @@ Le présent document a pour vocation de servir de compte rendu de l'Assembleée 
 
 Notre graphiste a pris en compte les avis de la précédente réunion et a proposé 2 familles de logo Teleragno ainsi que 4 icônes du trigramme.
 
-La première série est basée sur le thème de : Teleragno = toile en Provencal, Le Web est une toile --> il y a donc une toile + une araignée sur le logo.
+La première série est basée sur le thème de : Teleragno = toile en Provençal, Le Web est une toile --> il y a donc une toile + une araignée sur le logo.
 
-La seconde série est basée sur l'idée que Internet est un ensemble d'enterconexions. Il y a donc dans cette proposition des noeuds positionnés à certaines extrémités des lettres de "Teleragno". Ces noeuds sont reliés entre eux, parfois en N&B, parfois en couleur.
+La seconde série est basée sur l'idée que Internet est un ensemble d'interconexions. Il y a donc dans cette proposition des noeuds positionnés à certaines extrémités des lettres de "Teleragno". Ces noeuds sont reliés entre eux, parfois en N&B, parfois en couleur.
 
 Afin d'avoir l'avis de tous, un tour de table a été réalisé.
 
 * Série de logo avec une toile
 	* caro : 1er logo, 1er tri
-	* mayeu : 2e, 4e
+	* matthieu : 2e, 4e
 	* floréal : 1e, 4e, 
 		* idée : mettre la toile dans le O et faire pendre l'araignée du T
 		* idée : mettre la toile dans le G et faire pendre l'araignée du T : yves +1, ophélie +1
@@ -66,7 +66,7 @@ Afin d'avoir l'avis de tous, un tour de table a été réalisé.
 # ADSL
 Rappel sur le fonctionnement de l'accès internet par adsl.
 La possibilité de faire de l'ADSL se rapproche.
-Étant membre de la défération, nous avons demandés à FDN de réaliser un contrat de collecte en marque blanche.
+Étant membre de la fédération, nous avons demandés à FDN de réaliser un contrat de collecte en marque blanche.
 Le contrat est en cours de préparation et devrait nous être envoyé sous peu pour signature.
 
 # WiFi
@@ -98,7 +98,7 @@ Présentation des recherche effectuée par arnaud
 
 # Autre
 
-* lieux possible pour organiser des réunions ailleur qu'au Plug : [Mille Babord](http://www.millebabords.org/)
+* lieux possible pour organiser des réunions ailleurs qu'au Plug : [Mille Babord](http://www.millebabords.org/)
 
 # Organisation et composition du Bureau
 
@@ -107,16 +107,16 @@ Présentation des recherche effectuée par arnaud
 * Floréal, ophélie, jpierre se positionne comme membre du bureau.
 * Comme prévu par les status en cas de démission d'un membre du bureau, le président nomme des remplaçants aux postes vacants. A savoir : floréal comme trésorier et jpierre comme secrétaire.
 	Il y a donc désormais cinq membres dans le bureau.
-	Yves comme président, floréal comme trésorier, jpierre comme secrétaire et caroline et ophélie comme membre du bureau.
+	Yves comme président, Floréal comme trésorier, Jean-Pierre comme secrétaire et Caroline et Ophélie comme membre du bureau.
 
 # À faire
 
 * vérifier avec FFDN ou FDN que le contrat de collecte part bien par courrier normal (non recommandé)
-* voir les besoins pour baisser les frais bancaires qui sont trops importants pour notre utilisation du compte en banque.
-* imprimer les CR des AG prédentes pour signature
+* voir les besoins pour baisser les frais bancaires qui sont trop importants pour notre utilisation du compte en banque.
+* imprimer les CR des AG précédentes pour signature
 * préciser dans les documents la signification/traduction de Teleragno
 * ajouter la liste des services au site web.
-* envoyer par courier ou aller en personne à la banque pour déposer des chêques de cotisations
+* envoyer par courrier ou aller en personne à la banque pour déposer des chèques de cotisations
 
 -- 
 jpierre03
