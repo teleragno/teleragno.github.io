@@ -12,13 +12,13 @@ group: navigation
 Document :
 
 * titre : Cadre d'intervention d'Aménagement Numérique du Territoire
-	* [version locale (.pdf)](http://www.teleragno.fr/assets/files/2011/12/Annexe_contractuelle_Deliberation_11-1630_-_ANT.pdf) ou [version originale (.pdf)](http://emergences-numeriques.regionpaca.fr/fileadmin/SCORAN_groupe_de_travail/SMO/Annexe_contractuelle_D%C3%A9lib_11-1630_-_ANT.pdf)
+	* [version locale (.pdf)](assets/files/2011/12/Annexe_contractuelle_Deliberation_11-1630_-_ANT.pdf) ou [version originale (.pdf)](http://emergences-numeriques.regionpaca.fr/fileadmin/SCORAN_groupe_de_travail/SMO/Annexe_contractuelle_D%C3%A9lib_11-1630_-_ANT.pdf)
 	* sous-titre : Principes généraux, Modalités opérationnelles
 	* information : Délibération du Conseil régional, 16 décembre 2011
 	* région : Provence-Alpes-Côte d'Azur
 	* référence : annexe de la délibération n° 11-1630
 	* pages : 149
-* la décision prise : [version locale (.pdf)](http://www.teleragno.fr/assets/files/2011/12/Deliberation_16122011.pdf) ou [version originale (.pdf)](http://emergences-numeriques.regionpaca.fr/fileadmin/SCORAN_groupe_de_travail/SCORAN/Deliberation_16122011.pdf)
+* la décision prise : [version locale (.pdf)](/assets/files/2011/12/Deliberation_16122011.pdf) ou [version originale (.pdf)](http://emergences-numeriques.regionpaca.fr/fileadmin/SCORAN_groupe_de_travail/SCORAN/Deliberation_16122011.pdf)
 
 ## Extraits du document
 
