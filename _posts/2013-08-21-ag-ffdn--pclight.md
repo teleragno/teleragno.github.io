@@ -39,13 +39,15 @@ Plus de précisions sur les différentes conférences et discussion sont à veni
 
 ## Positionnement d'antennes
 
-* outil d'aide à la décision sur les transmissions radio
-	* [www.heywhatsthat.com](http://www.heywhatsthat.com) ou [wisp.heywhatsthat.com](http://wisp.heywhatsthat.com)
-		* application web
-		* visualisation de zone de couverture radio
-		* permet d'importer et d'exporter les coodonnées des installations (avec des limitations de nombre)
-	* [www.cplus.org/rmw/rm.htm](htpp://www.cplus.org/rmw/rm.htm)
-		* appli windows
+Outil d'aide à la décision sur les transmissions radio
+
+* [www.heywhatsthat.com](http://www.heywhatsthat.com) ou [wisp.heywhatsthat.com](http://wisp.heywhatsthat.com)
+
+	* application web
+	* visualisation de zone de couverture radio
+	* permet d'importer et d'exporter les coodonnées des installations (avec des limitations de nombre)
+* [www.cplus.org/rmw/rm.htm](htpp://www.cplus.org/rmw/rm.htm)
+	* appli windows
 
 ## Plans d'aménagement du territoire / action des collectivités
 
