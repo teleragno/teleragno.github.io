@@ -51,6 +51,10 @@ Plus de précisions sur les différentes conférences et discussion sont à veni
 * chercher les SDTAN : Schéma Directeur Technique d'Aménagement Numérique du Territoire.
 	* en pratique, il n'y en a pas dans les Bouches du Rhône. Le département ne semble pas interessé par la démarche.
 	* http://www.avicca.org/SDTAN,2380.html
+	* Les SDTAN sont déclarés à l'ARCEP
+		* la page de référence : http://www.arcep.fr/index.php?id=11339
+		* la liste des SDTAN déclarés : http://www.arcep.fr/index.php?id=10463
+		* la carte de france (actualisation d'Octobre 2013) : http://www.arcep.fr/fileadmin/reprise/dossiers/collectivites/SDTAN/Carte_SDTAN_Octobre_2013_.pdf
 * à défaut, il existe un SCORAN, qui est un schéma directeur au niveau régional.
 
 
