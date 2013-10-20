@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Assemblée Générale de la Fédération FDN les 17 - 18 Août 2013 chez Pclight89"
-description: "Mise à jour"
+description: ""
 category: 
 tags: []
 ---
