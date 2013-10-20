@@ -50,7 +50,10 @@ Outil d'aide à la décision sur les transmissions radio
 ## Radio-Amateurs
 
 * [www.ref-union.org](http://www.ref-union.org/)
+	* Association nationale
 	* voir le projet HAMNET
+* Hervé : [F1UPL](http://www.f1upl.org/)
+* [F1SMV](http://f1smv.fr/)
 
 ## RETEX : Retour d'expérience
 
