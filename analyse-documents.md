@@ -169,11 +169,17 @@ Présentation rapide du document :
 
 #### (5.2) 3.5. CRITERE D’AMENAGEMENT NUMERIQUE DANS L’APPEL D’OFFRE POUR LA LICENCE 4G 800 MHZ
 
+----
+
+(la suite est à venir)
 
 
 
 
 
 
+### 5.3 Cadre d’intervention du programme régional Boucles Locales Haut Débit 2012 (BLHD 2012)
+### 5.4 Convention type BLHD 2012
 
-### 5.3 Cadre d’intervention du programme régional Boucles Locales Haut Débit 2012 (BLHD 2012)### 5.4 Convention type BLHD 2012
+---
+jpierre03
