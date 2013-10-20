@@ -34,6 +34,7 @@ Document :
 	* vision nationale : "A l’échelle nationale, le Président de la République a fixé un objectif ambitieux de couverture de l’intégralité du territoire français en Très Haut Débit à horizon 2025, avec un palier de 70% de la population à horizon 2020."
 * page 7 :
 	* "Un cahier des charges pour les Réseaux d’Initiative Publique THD a été établi par la Caisse des dépôts en Juillet 2001."
+
 * page 14 :
 	* "Le Département des Bouches du Rhône ne semble quant à lui pas intéressé par cette démarche de schéma."
 	* "Par contre la Ville de Marseille a signé une charte avec les principaux opérateurs concernant le déploiement des réseaux FTTH sur sa commune."
