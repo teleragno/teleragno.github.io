@@ -22,5 +22,37 @@ Nous avons eu le plaisir de savoir que Teleragno était bien accepté dans la f�
 
 Plus de précisions sur les différentes conférences et discussion sont à venir.
 
+# Informations en vrac
+
+## Sur les radio amateurs et la stations radio
+
+* www.anfr.fr > Radioamateur > Annuaire
+	* permet de réaliser des recherches en tout genre sur les radioamateurs et les emetteurs déclarés dans des zones géopraphiques.
+	* il s'agit d'une source de données officielle.
+	* les installations réalisées par les radio-amateurs & professionnels doivent y être déclarées. 
+* utilisation d'installation TDF
+	* il s'agit des pylônes historiquement utilisés pour la TV.
+	* des demandes de devis ont été réalisés
+	* FAS^[FAS: frais d'accès au service] : ~5k€
+	* Frais récurrent : ~3k€/an
+
+## Positionnement d'antennes
+
+* outil d'aide à la décision sur les transmissions radio
+	* www.heywhatsthat.com
+		* application web
+		* visualisation de zone de couverture radio
+		* permet d'importer et d'exporter les coodonnées des installations (avec des limitations de nombre)
+	* www.cplus.org/rmw/rm.htm
+		* appli windows
+
+## Plans d'aménagement du territoire / action des collectivités
+
+* chercher les SDTAN : Schéma Directeur Technique d'Aménagement Numérique du Territoire.
+	* en pratique, il n'y en a pas dans les Bouches du Rhône. Le département ne semble pas interessé par la démarche.
+	* http://www.avicca.org/SDTAN,2380.html
+* à défaut, il existe un SCORAN, qui est un schéma directeur au niveau régional.
+
+
 -- 
 jpierre03
