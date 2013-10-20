@@ -26,7 +26,8 @@ Plus de précisions sur les différentes conférences et discussion sont à veni
 
 ## Sur les radio amateurs et la stations radio
 
-* www.anfr.fr > Radioamateur > Annuaire
+* www.anfr.fr > Autorisations & Certificats > Radioamateur > ~Annuaire
+	* [lien direct](http://amatpres.anfr.fr/presentation.do?reqCode=annuaire)
 	* permet de réaliser des recherches en tout genre sur les radioamateurs et les emetteurs déclarés dans des zones géopraphiques.
 	* il s'agit d'une source de données officielle.
 	* les installations réalisées par les radio-amateurs & professionnels doivent y être déclarées. 
@@ -39,22 +40,22 @@ Plus de précisions sur les différentes conférences et discussion sont à veni
 ## Positionnement d'antennes
 
 * outil d'aide à la décision sur les transmissions radio
-	* www.heywhatsthat.com
+	* [www.heywhatsthat.com](http://www.heywhatsthat.com) ou [wisp.heywhatsthat.com](http://wisp.heywhatsthat.com)
 		* application web
 		* visualisation de zone de couverture radio
 		* permet d'importer et d'exporter les coodonnées des installations (avec des limitations de nombre)
-	* www.cplus.org/rmw/rm.htm
+	* [www.cplus.org/rmw/rm.htm](htpp://www.cplus.org/rmw/rm.htm)
 		* appli windows
 
 ## Plans d'aménagement du territoire / action des collectivités
 
 * chercher les SDTAN : Schéma Directeur Technique d'Aménagement Numérique du Territoire.
 	* en pratique, il n'y en a pas dans les Bouches du Rhône. Le département ne semble pas interessé par la démarche.
-	* http://www.avicca.org/SDTAN,2380.html
+	* [Avicca](http://www.avicca.org/SDTAN,2380.html)
 	* Les SDTAN sont déclarés à l'ARCEP
-		* la page de référence : http://www.arcep.fr/index.php?id=11339
-		* la liste des SDTAN déclarés : http://www.arcep.fr/index.php?id=10463
-		* la carte de france (actualisation d'Octobre 2013) : http://www.arcep.fr/fileadmin/reprise/dossiers/collectivites/SDTAN/Carte_SDTAN_Octobre_2013_.pdf
+		* [la page de référence](http://www.arcep.fr/index.php?id=11339)
+		* [la liste des SDTAN déclarés](http://www.arcep.fr/index.php?id=10463)
+		* [la carte de france (actualisation d'Octobre 2013)](http://www.arcep.fr/fileadmin/reprise/dossiers/collectivites/SDTAN/Carte_SDTAN_Octobre_2013_.pdf)
 * à défaut, il existe un SCORAN, qui est un schéma directeur au niveau régional.
 
 
