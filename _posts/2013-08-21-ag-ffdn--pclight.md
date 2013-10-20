@@ -34,19 +34,18 @@ Plus de précisions sur les différentes conférences et discussion sont à veni
 * utilisation d'installation TDF
 	* il s'agit des pylônes historiquement utilisés pour la TV.
 	* des demandes de devis ont été réalisés
-	* FAS^[FAS: frais d'accès au service] : ~5k€
-	* Frais récurrent : ~3k€/an
+	* FAS (frais d'accès au service) : ~5k€
+	* Frais récurrent : ~3k€/an pour une antenne à 50m du sol.
 
 ## Positionnement d'antennes
 
 Outil d'aide à la décision sur les transmissions radio
 
 * [www.heywhatsthat.com](http://www.heywhatsthat.com) ou [wisp.heywhatsthat.com](http://wisp.heywhatsthat.com)
-
 	* application web
 	* visualisation de zone de couverture radio
 	* permet d'importer et d'exporter les coodonnées des installations (avec des limitations de nombre)
-* [www.cplus.org/rmw/rm.htm](htpp://www.cplus.org/rmw/rm.htm)
+* [www.cplus.org/rmw/rm.html](http://www.cplus.org/rmw/rm.html)
 	* appli windows
 
 ## Plans d'aménagement du territoire / action des collectivités
