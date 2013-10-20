@@ -3,7 +3,7 @@ layout: post
 title: "On repart au front !"
 description: ""
 category: 
-tags: 
+tags: []
 ---
 {% include JB/setup %}
 

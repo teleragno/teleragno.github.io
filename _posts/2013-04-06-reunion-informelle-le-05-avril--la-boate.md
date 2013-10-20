@@ -3,10 +3,7 @@ layout: post
 title: "Réunion informelle le 05 Avril 2013 à La Bo[a]te"
 description: ""
 category:
-tags:
-  - ffdn
-  - adsl
-  - wifi
+tags: []
 ---
 {% include JB/setup %}
 Lors du [Plug](http://plugfr.org) de mars ayant pour thème l'auto-hébergement à

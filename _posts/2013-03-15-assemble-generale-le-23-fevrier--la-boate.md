@@ -3,8 +3,7 @@ layout: post
 title: "Assemblée générale le 23 Février 2013 à la La Bo[a]te"
 description: ""
 category:
-tags:
-  - ag
+tags: []
 ---
 {% include JB/setup %}
 
