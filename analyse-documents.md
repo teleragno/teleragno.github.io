@@ -52,19 +52,22 @@ Présentation rapide du document :
 ### 4.1 Contractualisations 2014 – 2020
 
 * page 15 : 
-	* "4.1 Contractualisations 2014 – 2020 : Même si la mobilisation des fonds européens est incertaine après 2013 (fin de la génération actuelle des PO FEDER), malgré des ambitions volontaristes de l’Europe indiquées ci-dessus (2Mbit/s pour tous en 2013, 30 Mbit/s pour tous et 100 Mbit/s pour 50% de la population en 2020), les réflexions des différentes collectivités en lien avec l’Etat, l’établissement de la SCORAN et des différents SDTAN sontun bon niveau de préparation pour faire valoir les niveaux de financements nécessaires dans le cadre des prochaines contractualisation 2014-2020. Le fléchage de crédits européens sur l’exercice 2014-2020 s’avère indispensable ne serait-ce que pour relever le défi des ambitions européennes annoncées à échéance 2020."
+
+	* "Même si la mobilisation des fonds européens est incertaine après 2013 (fin de la génération actuelle des PO FEDER), malgré des ambitions volontaristes de l’Europe indiquées ci-dessus (2Mbit/s pour tous en 2013, 30 Mbit/s pour tous et 100 Mbit/s pour 50% de la population en 2020), les réflexions des différentes collectivités en lien avec l’Etat, l’établissement de la SCORAN et des différents SDTAN sontun bon niveau de préparation pour faire valoir les niveaux de financements nécessaires dans le cadre des prochaines contractualisation 2014-2020. Le fléchage de crédits européens sur l’exercice 2014-2020 s’avère indispensable ne serait-ce que pour relever le défi des ambitions européennes annoncées à échéance 2020."
 
 ### 4.2 Le Plan national très haut débit (PNTHD) de l’Etat
 
-* page 15 : 
-	* "4.2 Le Plan national très haut débit (PNTHD) de l’Etat :" ... "Les intentions de déploiement des di fférents opérateurs annoncées en fin janvier 2011 seront-elles tenues et ne *constituent-elles pas des prises de position afin de contrer les initiatives* naissantes des collectivités ?"
-	* 
+* page 15 :
+
+	* "Les intentions de déploiement des di fférents opérateurs annoncées en fin janvier 2011 seront-elles tenues et ne constituent-elles pas des prises de position afin de contrer les initiatives naissantes des collectivités ?"
+
 #### 4.3.5 Programme régional « Boucles Locales Haut Débit
 
 * page 18 :
 	* "un principe de précaution vis-à- vis des champs électromagnétiques"
 	* "une émission de champs électromagnétique inférieurs à 0,6V/m, alors que la norme française pour ce type de champs est fixée à 61 V/m."
 * page 19 :
+
 	* "Ce programme interroge pourtant quant à ses limites "
 		* "Les différents réseaux ne sont pas cohérents entre eux et ne peuvent nullement constituer une infrastructure structurante"
 		* "Ces projets consistent à améliorer le réseau cuivre de France Télécom. Bien qu’ils amènent une amélioration sensible du service offert aux administrés, il ne prépare pas à l’arrivée des futurs réseaux en fibre optique"
@@ -82,14 +85,19 @@ Présentation rapide du document :
 * page 22 :
 	* "L’aide régionale indiquée ci-dessus et concernant les déploiements du FTTH sera conditionnée à l’appartenance à ce syndicat mixte." 
 	* "Les composantes du projet régional se déclineront de la manière suivante" :
+
 		* (page 33) : "Création d’un GIX (Global Internet Exchange) probablement sur Marseille au débouché des fibres asiatiques permettant de développer les échanges de transit internet au niveau régional éviter que ceux-ci ne se fassent sur Paris ou Amsterdam (point d’échange de niveau 1 en Europe) et par conséquent de fournir une évacuation des flux Internet pour les Réseaux d’initiatives publiques existants et les futurs réseaux très haut débit à construire, tout en développant l’éco-système de l’Internet en Provence Alpes Côte d’Azur."
-	* page 34 :
-		* "L’Internet s’est progressivement structuré à l’échelle mondiale passant d’un modèle d’interconnexion hérité du monde universitaire quasi gratuit à un modèle de développement hiérarchisé où les intérêts économiques et financiers des principaux acteurs ne sont pas absents."
+
+* page 34 :
+
+	* "L’Internet s’est progressivement structuré à l’échelle mondiale passant d’un modèle d’interconnexion hérité du monde universitaire quasi gratuit à un modèle de développement hiérarchisé où les intérêts économiques et financiers des principaux acteurs ne sont pas absents."
 
 ### 4.5 Interventions transitoires en fin 2011 – 2012
 
 * page 37 :
+
 	* programme BLHD : "Un cadre d’intervention amendé, ainsi qu’une convention type de financement est annexé à la présente délibération. Les principales modifications concernent les points suivants :"
+
 		* "Les seuils d’intervention du Feder sont relevés à hauteur de 100 k€ minimum"
 		* "Le financement régional peut être porté à hauteur de 60% en absence de financement FEDER"
 		* "Les projets de prolongation de DSP BLA seront éligibles au programme"
