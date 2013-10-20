@@ -133,17 +133,21 @@ Présentation rapide du document :
 ##### (5.2) 2.4. OPPORTUNITES D’ACCES A DES INFRASTRUCTURES EXISTANTES
 
 * page 69 :
+
 	* "hormis le Vaucluse" ... "les autres départements ne disposent pas d’un réseau de collecte public sur l'ensemble de leur territoire. La plupart des collectivités met en avant que la construction d’un réseau de collecte est la première priorité, qui pourrait se transformer en un projet fédérateur à l’échelle de l’ensemble de la région."
 
 #### (5.2) 3. EVALUATION DE SCENARIOS TECHNICO-ECONOMIQUES
 ##### (5.2) 3.1. PRINCIPES D’ELABORATION DES SCENARIOS
 
 * page 77 :
+
 	* Une première évaluation du coût de déploiement du FTTH peut cependant être proposée à ce stade. Elle repose sur une typologie de l’habitat en six classes de densité (ci-après dénommés géotypes). Ainsi :"
+
 		* "Les géotypes 1 et 2 comprennent en grande majorité des communes de plusieurs milliers de foyers et plus. Il s’agit donc d’un habitat très urbain. Les coûts moyens de construction y sont estimés approximativement entre 250€ et 500€ par prise FTTH."
 		* "Les géotypes 3 et 4 comprennent en grande majorité des bourgs et des villes de plusieurs centaines de foyers. Les coûts moyens y sont estimés approximativement autour de 1 000€ à 2 000€ par prise."
 		* "Les géotypes 5 et 6 comprennent en grande majorité des résidences isolées, des hameaux et des villages jusqu’à quelques centaines de foyers. Les coûts moyens y sont estimés approximativement de 3 000€ à 4 000€ par prise."
 	* hypothèse :
+
 		* "Ces ordres de grandeur de coûts de construction du FTTH reposent sur l’hypothèse d’une très large réutilisation des fourreaux de France Telecom existants, et également des appuis aériens existants, qu’ils s’agissent de ceux de France Telecom ou du réseau électrique. Ils ne comprennent pas les coûts de location de ces infrastructures, ni le raccordement des abonnés, ni les frais financiers. Ce sont ces coûts de construction qui constituent la principale problématique économique dans le déploiement du FTTH."
 		* "Appliqué à la France entière, le mode d’évaluation des coûts de construction du FTTH selon la typologie présentée ci-dessus conduit à un coût total de 25 milliards d’euros, cohérent avec les dernières évaluations évoquées par l’Autorité de Régulation des Communications Electroniques et des Postes (ARCEP)."
 
