@@ -114,8 +114,62 @@ Présentation rapide du document :
 	STRATEGIE DE COHERENCE REGIONALE D’AMENAGEMENT NUMERIQUE DE PROVENCE-ALPES-COTE D’AZUR
 	Synthese
 
-
 ### 5.2 Document complet de la SCORAN
-### 5.3 Cadre d’intervention du programme régional Boucles Locales Haut Débit 2012 (BLHD 2012)
 
-### 5.4 Convention type BLHD 2012
+* page 50 :
+	STRATEGIE DE COHERENCE REGIONALE D’AMENAGEMENT NUMERIQUE DE PROVENCE-ALPES-COTE D’AZUR
+
+##### (5.2) 2.2. INITIATIVES ET PROJETS D’AMENAGEMENT NUMERIQUE PUBLICS
+
+* page 65 : "Les Réseaux d’Initiative Publique(RIP)"
+
+	* "La Communauté du Pays d'Aix (CPA) a établi un Réseau d’Initiative Publique (RIP) qui est actuellement en phase d‘exploitation. Le réseau a été inauguré le 7 octobre 2010. Ses objectifs principaux sont le raccordement des Zones d’Activités (ZA), des répartiteurs et la couverture des zones blanches. Des financements de l’Europe via le FEDER et de l’Etat (500 K€) via le CPER (Contrat de Projets Etat-Région) ont été obtenus."
+	* "La Communauté d'Agglomération Toulon Provence Méditerranée (TPM) a retenu son délégataire mi-2011 pour la Délégation de Service Public (DSP) de son RIP, qui aura pour cible le raccordement de zones d’activités et des principaux sites publics. La première phase du projet est un projet de raccordement optique de plusieurs NRA-ZO récemment déployés dans le cadre du programme régional « Boucles Locales Haut Débit »."
+	* "La Communauté d’Agglomération Dracénoise (CAD) a engagé une étude pour le lancement d’une délégation de service public. La première phase du projet consiste à réaliser plusieurs NRA-ZO dans le cadre du programme « Boucles Locales Haut Débit »."
+	* "Enfin, le Conseil général de Vaucluse est en phase de négociation d'une DSP pour l'établissement d'un Réseau de communications électroniques à Haut et Très Haut Débit visant notamment à la constitution d’un réseau de collecte (des collèges, des lycées, des sites publics, des entreprises dans et en dehors des zones d’activités, des « pôles d'équilibres et de services », le raccordement de NRA) et à déployer des lignes FTTH dès le premier établissement et tout au long du contrat de DSP en cohérence avec le Schéma Directeur Territorial d'Aménagement Numérique (SDTAN) voté le 8 juillet 2011. La signature du contrat est prévue d’ici fin 2011."
+	* "Le Conseil général des Alpes-Maritimes a également lancé un programme de traitement des zones blanches en zone de montagne et dans le haut-pays, qui s’est articulé avec le programme régional BLHD à la mi-2009."
+
+
+##### (5.2) 2.4. OPPORTUNITES D’ACCES A DES INFRASTRUCTURES EXISTANTES
+
+* page 69 :
+	* "hormis le Vaucluse" ... "les autres départements ne disposent pas d’un réseau de collecte public sur l'ensemble de leur territoire. La plupart des collectivités met en avant que la construction d’un réseau de collecte est la première priorité, qui pourrait se transformer en un projet fédérateur à l’échelle de l’ensemble de la région."
+
+#### (5.2) 3. EVALUATION DE SCENARIOS TECHNICO-ECONOMIQUES
+##### (5.2) 3.1. PRINCIPES D’ELABORATION DES SCENARIOS
+
+* page 77 :
+	* Une première évaluation du coût de déploiement du FTTH peut cependant être proposée à ce stade. Elle repose sur une typologie de l’habitat en six classes de densité (ci-après dénommés géotypes). Ainsi :"
+		* "Les géotypes 1 et 2 comprennent en grande majorité des communes de plusieurs milliers de foyers et plus. Il s’agit donc d’un habitat très urbain. Les coûts moyens de construction y sont estimés approximativement entre 250€ et 500€ par prise FTTH."
+		* "Les géotypes 3 et 4 comprennent en grande majorité des bourgs et des villes de plusieurs centaines de foyers. Les coûts moyens y sont estimés approximativement autour de 1 000€ à 2 000€ par prise."
+		* "Les géotypes 5 et 6 comprennent en grande majorité des résidences isolées, des hameaux et des villages jusqu’à quelques centaines de foyers. Les coûts moyens y sont estimés approximativement de 3 000€ à 4 000€ par prise."
+	* hypothèse :
+		* "Ces ordres de grandeur de coûts de construction du FTTH reposent sur l’hypothèse d’une très large réutilisation des fourreaux de France Telecom existants, et également des appuis aériens existants, qu’ils s’agissent de ceux de France Telecom ou du réseau électrique. Ils ne comprennent pas les coûts de location de ces infrastructures, ni le raccordement des abonnés, ni les frais financiers. Ce sont ces coûts de construction qui constituent la principale problématique économique dans le déploiement du FTTH."
+		* "Appliqué à la France entière, le mode d’évaluation des coûts de construction du FTTH selon la typologie présentée ci-dessus conduit à un coût total de 25 milliards d’euros, cohérent avec les dernières évaluations évoquées par l’Autorité de Régulation des Communications Electroniques et des Postes (ARCEP)."
+
+##### (5.2) 3.2. ORDRE DE GRANDEUR DE LA COUVERTURE TOUT FTTH
+##### (5.2) 3.3. AMBITION FTTH A LONG TERME
+
+* page 79 :
+	* "Ainsi une ambition à long terme (2030 au plus tard) de couverture de 100% des lignes en FTTH a été retenue en région Provence-Alpes-Côte d’Azur"
+	* "Les entretiens" ... "ont également montré des besoins réels à court terme en Très Haut Débit liés à leurs usages professionnels."
+
+##### (5.2) 3.4. EVALUATION DE TRAJECTOIRES A MOYEN TERME
+
+* (5.2) 3.4.1. TRAJECTOIRE 1 : DEPLOYER LE FTTH SUR LES ZONES LES PLUS RENTABLES UNIQUEMENT, A HORIZON 2020, AU-DELA DE LA ZONE D’INTENTION D’INVESTISSEMENT DES OPERATEURS
+* (5.2) 3.4.2. TRAJECTOIRE 2 : DEVELOPPER LE FTTH SUR LE TERRITOIRE REGIONAL A HAUTEUR DE 70% MINIMUM DES LIGNES DE CHAQUE DEPARTEMENT A HORIZON 2020 ET PERMETTRE A MINIMA UN ACCES TRIPLE PLAY POUR TOUS
+* (5.2) 3.4.3. TRAJECTOIRE 3 : ASSURER UN DEBIT MINIMUM PERMETTANT LE TRIPLE PLAY POUR TOUS A MOINDRE COUT (LE DEPLOIEMENT FTTH EST LIMITE)
+* (5.2) 3.4.4. TRAJECTOIRE 4 : ASSURER UN DEBIT MINIMUM PERMETTANT LE TRIPLE PLAY POUR TOUS A MOINDRE COUT SANS UTILISATION DE LA TECHNOLOGIE RADIO (LE DEPLOIEMENT FTTH EST LIMITE)
+* (5.2) 3.4.5. A UTRES TRAJECTOIRES DERIV EES DES PRECEDENTES
+* (5.2) 3.4.6. INTERVENTION PUBLIQUE DANS LA ZONE D’INTENTION D’INVESTISSEMENT PRIVEE POST 2014
+
+#### (5.2) 3.5. CRITERE D’AMENAGEMENT NUMERIQUE DANS L’APPEL D’OFFRE POUR LA LICENCE 4G 800 MHZ
+
+
+
+
+
+
+
+
+### 5.3 Cadre d’intervention du programme régional Boucles Locales Haut Débit 2012 (BLHD 2012)### 5.4 Convention type BLHD 2012
