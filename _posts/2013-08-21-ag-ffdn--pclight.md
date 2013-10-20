@@ -39,6 +39,13 @@ Plus de précisions sur les différentes conférences et discussion sont à veni
 
 ## Positionnement d'antennes
 
+Bases de données des installations radio
+
+* [www.cartoradio.fr](http://www.cartoradio.fr/cartoradio/web/)
+	* Site de l'[ANFR](http://www.anfr.fr)
+	* carte interactive des installations de sources d'émission radio
+	* indique les rapports de mesures réalisées
+
 Outil d'aide à la décision sur les transmissions radio
 
 * [www.heywhatsthat.com](http://www.heywhatsthat.com) ou [wisp.heywhatsthat.com](http://wisp.heywhatsthat.com)
