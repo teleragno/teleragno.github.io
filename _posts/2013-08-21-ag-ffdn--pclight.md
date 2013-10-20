@@ -47,6 +47,11 @@ Outil d'aide à la décision sur les transmissions radio
 
 	* appli windows
 
+## Radio-Amateurs
+
+* [www.ref-union.org](http://www.ref-union.org/)
+	* voir le projet HAMNET
+
 ## RETEX : Retour d'expérience
 
 * utilisation d'installation [TDF](http://www.tdf.fr/)
