@@ -58,10 +58,28 @@ Outil d'aide à la décision sur les transmissions radio
 ## RETEX : Retour d'expérience
 
 * utilisation d'installation [TDF](http://www.tdf.fr/)
+
 	* il s'agit des pylônes de grande hauteur utilisés historiquement pour la TV.
 	* des demandes de devis ont été réalisés
-		* FAS (frais d'accès au service) : ~5k€
+
+
+			* FAS (frais d'accès au service) : ~5k€
 		* Frais récurrent : ~3k€/an pour une antenne à 50m du sol.
+* radio : que du WiFi sur les fréquences autorisées pour le public.
+
+
+	* pas de déclaration nécessaire tant que l'on reste dans les zones de puissance autorisées par l'ARCEP.
+	* --> il faut faire attention, même avec un point d'accès domestique, si le gain de l'antenne est trop important / antenne trop directive, alors la PAR (Puissance Apparente Rayonnée) peut dépasser la limite.
+
+
+		* la PAR n'est pas une puissance rayonnée réelle.
+		* la PAR permet de comparer la solution avec antenne directive par rapport à une antenne isotrope, omnidirectionnelle de gain 1 (0dBi).
+	* dans certains cas, il peut être utile d'avoir un radio-amateur dans l'équipe
+
+		* pour les liaisons longue distance / dont la PAR dépasse la limite. (cas à considérer comme expérimental)
+		* pour être au point sur la règlementation / savoir où la trouver
+		* pour avoir des contacts avec des gestionnaires de pylônes (peut-être radio-amateur eux-mêmes)
+		* et plus encore :)
 
 ## Aménagement (numérique) du territoire / action des collectivités
 
