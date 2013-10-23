@@ -90,7 +90,7 @@ Outil d'aide à la décision sur les transmissions radio
 		* [la page de référence](http://www.arcep.fr/index.php?id=11339)
 		* [la liste des SDTAN déclarés](http://www.arcep.fr/index.php?id=10463)
 		* [la carte de france (actualisation d'Octobre 2013)](http://www.arcep.fr/fileadmin/reprise/dossiers/collectivites/SDTAN/Carte_SDTAN_Octobre_2013_.pdf)
-* à défaut, il existe un SCORAN, qui est un schéma directeur au niveau régional.
+* à défaut, il existe un SCORAN, qui est un schéma directeur au niveau régional [version locale (.pdf)](assets/files/2011/12/Annexe_contractuelle_Deliberation_11-1630_-_ANT.pdf) ou [version originale (.pdf)](http://emergences-numeriques.regionpaca.fr/fileadmin/SCORAN_groupe_de_travail/SMO/Annexe_contractuelle_D%C3%A9lib_11-1630_-_ANT.pdf).
 
 -- 
 jpierre03
