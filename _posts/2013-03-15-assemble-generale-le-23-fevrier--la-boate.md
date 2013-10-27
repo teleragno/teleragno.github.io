@@ -68,7 +68,7 @@ tags: []
 
 * Note bas de page
 
-	^[note bas de page]
+		^[note bas de page]
 
 # GIT
 
