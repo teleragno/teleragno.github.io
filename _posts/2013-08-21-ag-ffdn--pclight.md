@@ -20,7 +20,7 @@ Le samedi était dédié à une partie conférences le matin et l'assemblée pro
  
 L'ordre du jour de l'assemblée générale est assez court et il a été épuisé rapidement.
 A noter que dans le lot, il y avait la mise au voix de la validation des adhésions à la fédération des membres votés par le conseil d'administration.
-Nous avons eu le plaisir de savoir que Teleragno était bien accepté dans la fédération après vote de l'assemblée, [même si l'information avait été diffusée avant](http://www.ffdn.org/fr/article/2013-07-19/nouveaux-membres-cafai-et-teleragno].
+Nous avons eu le plaisir de savoir que Teleragno était bien accepté dans la fédération après vote de l'assemblée, [même si l'information avait été diffusée avant](http://www.ffdn.org/fr/article/2013-07-19/nouveaux-membres-cafai-et-teleragno).
 
 ## Sources officielles
 
