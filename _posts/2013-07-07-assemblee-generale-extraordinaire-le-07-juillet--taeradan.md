@@ -76,14 +76,14 @@ Présentation des recherche effectuée par arnaud
 	* Tetaneutral, PC Light
 * Où ?
 	* beaucoup au USA, en Europe de l'Est, en Afrique, un peu en France
-	Hors France, il existe de nombreux opérateur Wifi commerciaux (W-ISP^[WISP : Wireless Internet Service Provider, Fournisseur d'Accès Internet en WiFi])
+	Hors France, il existe de nombreux opérateur Wifi commerciaux (WISP : Wireless Internet Service Provider, Fournisseur d'Accès Internet en WiFi)
 
 * Structure des antennes : omnidirectionnelle, sectorielles, directionnelles
 	* Selon la structure de portée et considérant la puissance maximale de 1W, la portée peut atteindre 7km.
 	* La puissance de 1W est le seuil maximal autorisé pour un usage non soumis à des licences d'émission et d'exploitation.
 * Alimentation de points d'accès
 	* par alimentation propre : Solaire, éolien
-	* par alimentation externe : PoE^[POE: Power Over Ethernet, alimentation électrique par le câble réseau], prise électrique standard
+	* par alimentation externe : PoE (POE: Power Over Ethernet, alimentation électrique par le câble réseau), prise électrique standard
 
 * [Outil d'aide à la décision de placement de réseau Wifi ](www.ubmt.com/airlink) / Ubiquiti
 * envisagé : trouver des subventions pour l'installation du matériel
