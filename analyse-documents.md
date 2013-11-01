@@ -22,7 +22,7 @@ Présentation rapide du document :
 
 # Extraits du document
 
-## 1 LE CONTEXTE EN MATIERE D’AMENAGEMENT NUMERIQUE DU TERRITOIRE
+## 1 Le contexte en matière d'aménagement numérique du territoire
 
 * page 4 :
 	* "Il s’agit d’anticiper et non pas d’attendre les nouveaux usages et de subir la loi des territoires, des pays qui ont su anticiper et prendre dès à présent une longueur d’avance."
@@ -33,33 +33,33 @@ Présentation rapide du document :
 	* "Pour les grandes entreprises du secteur des services aux entreprises, ce critère constitue même le premier critère d’implantation. selon l’étude annuelle 2009 du cabinet Wakeman & Cushfield."
 * page 6 :
 	* "La technologie la plus performante et la plus pérenne pour accompagner cette augmentation des débits est la fibre optique jusqu’à l’abonné (FTTH : Fiber To The Home), seule technologie actuellement à même de garantir une symétrie des débits montants et descendants et qui offre les perspectives d’évolutions de débit les plus intéressantes. Toutefois, il s’agit aussi de la technologie la plus coûteuse car elle requiert de déployer une nouvelle boucle locale, c’est-à-dire de remplacer la desserte en cuivre actuelle par des réseaux en fibre optique."
-	* vision européenne : "En 2010, la Commission européenne a lancé la stratégie numérique, l’une des initiatives phare de la stratégie EU2020, réaffirmant ainsi son objectif consistant à mettre le haut débit de base à la disposition de tous les Européens d’ici à 2013 et à faire en sorte que, d’ici à 2020, tous les citoyens de l’Unionaient accès à des vitesses de connexion bien supérieures, de plus de 30 Mbit/s, et que 50% au moins des ménages aient une connexion internet de plus de 100 Mbit/s."
+	* vision européenne : "En 2010, la Commission européenne a lancé la stratégie numérique, l’une des initiatives phare de la stratégie EU2020, réaffirmant ainsi son objectif consistant à mettre le haut débit de base à la disposition de tous les Européens d’ici à 2013 et à faire en sorte que, d’ici à 2020, tous les citoyens de l’Union aient accès à des vitesses de connexion bien supérieures, de plus de 30 Mbit/s, et que 50% au moins des ménages aient une connexion internet de plus de 100 Mbit/s."
 	* vision nationale : "A l’échelle nationale, le Président de la République a fixé un objectif ambitieux de couverture de l’intégralité du territoire français en Très Haut Débit à horizon 2025, avec un palier de 70% de la population à horizon 2020."
 * page 7 :
 
 	* "Un cahier des charges pour les Réseaux d’Initiative Publique THD a été établi par la Caisse des dépôts en Juillet 2001."
 
-## 2 LA STRATEGIE DE COHERENCE REGIONALE D’AMENAGEMENT NUMERIQUE (SCORAN)
+## 2 La stratégie de cohérence régionale d'aménagement numérique (SCORAN)
 
-## 3 LES DEMARCHES INFRAREGIONALES D’AMENAGEM ENT NUMERIQUE ET LES SCHEMAS DIRECTEURS D’AMENAGEMENT NUMERIQUE
+## 3 Les démarches infrarégionales d'aménagement numérique et les schémas directeurs d'aménagement numérique
 * page 14 :
 	* "Le Département des Bouches du Rhône ne semble quant à lui pas intéressé par cette démarche de schéma."
 	* "Par contre la Ville de Marseille a signé une charte avec les principaux opérateurs concernant le déploiement des réseaux FTTH sur sa commune."
 	* "Enfin, le Syndicat Intercommunal des Collectivités Territoriales Informatisées des Alpes Méditerranée (SICTIAM) s’est saisi de la compétence d’aménagement numérique et d’opérateur de télécommunication. Le Président du SICTIAM a récemment écrit au Président de Région pour lui indiquer sa capacité à porter un éventuel projet régional d’aménagement numérique."
 
-## 4 LE PROGRAMME REGIONAL D’INTERVENTION EN MATIERE D’AMENAGEMENT NUMERIQUE DU TERRITOIRE
+## 4 Le programme régional d'intervention en matière d'aménagement numérique du territoire
 
 ### 4.1 Contractualisations 2014 – 2020
 
 * page 15 : 
 
-	* "Même si la mobilisation des fonds européens est incertaine après 2013 (fin de la génération actuelle des PO FEDER), malgré des ambitions volontaristes de l’Europe indiquées ci-dessus (2Mbit/s pour tous en 2013, 30 Mbit/s pour tous et 100 Mbit/s pour 50% de la population en 2020), les réflexions des différentes collectivités en lien avec l’Etat, l’établissement de la SCORAN et des différents SDTAN sontun bon niveau de préparation pour faire valoir les niveaux de financements nécessaires dans le cadre des prochaines contractualisation 2014-2020. Le fléchage de crédits européens sur l’exercice 2014-2020 s’avère indispensable ne serait-ce que pour relever le défi des ambitions européennes annoncées à échéance 2020."
+	* "Même si la mobilisation des fonds européens est incertaine après 2013 (fin de la génération actuelle des PO FEDER), malgré des ambitions volontaristes de l’Europe indiquées ci-dessus (2Mbit/s pour tous en 2013, 30 Mbit/s pour tous et 100 Mbit/s pour 50% de la population en 2020), les réflexions des différentes collectivités en lien avec l’Etat, l’établissement de la SCORAN et des différents SDTAN sont un bon niveau de préparation pour faire valoir les niveaux de financements nécessaires dans le cadre des prochaines contractualisation 2014-2020. Le fléchage de crédits européens sur l’exercice 2014-2020 s’avère indispensable ne serait-ce que pour relever le défi des ambitions européennes annoncées à échéance 2020."
 
 ### 4.2 Le Plan national très haut débit (PNTHD) de l’Etat
 
 * page 15 :
 
-	* "Les intentions de déploiement des di fférents opérateurs annoncées en fin janvier 2011 seront-elles tenues et ne constituent-elles pas des prises de position afin de contrer les initiatives naissantes des collectivités ?"
+	* "Les intentions de déploiement des différents opérateurs annoncées en fin janvier 2011 seront-elles tenues et ne constituent-elles pas des prises de position afin de contrer les initiatives naissantes des collectivités ?"
 
 #### 4.3.5 Programme régional « Boucles Locales Haut Débit
 
@@ -70,10 +70,10 @@ Présentation rapide du document :
 
 	* "Ce programme interroge pourtant quant à ses limites "
 		* "Les différents réseaux ne sont pas cohérents entre eux et ne peuvent nullement constituer une infrastructure structurante"
-		* "Ces projets consistent à améliorer le réseau cuivre de France Télécom. Bien qu’ils amènent une amélioration sensible du service offert aux administrés, il ne prépare pas à l’arrivée des futurs réseaux en fibre optique"
+		* "Ces projets consistent à améliorer le réseau cuivre de France Télécom. Bien qu’ils amènent une amélioration sensible du service offert aux administrés, il ne prépare pas à l’arrivée des futurs réseaux en fibre optique"
 		* "La dilution des projets en de multiples maîtrises d’ouvrage annihile toute massification de la commande publique, s’avère très consommateur en ressources humaines et réduit la concurrence. En effet, la majeure partie des projets ont été remportés par l’opérateur historique qui a systématiquement répondu aux différents appels d’offres. Cela empêche également des modes de contractualisation tels les Partenariats Publics Privés(PPP), modèle juridique par exemple utilisé par la Région Auvergne dans un programme global d’intervention"
 
-### 4.4 Le nouveau mode d’intervention régionale en ma tière d’aménagement numérique
+### 4.4 Le nouveau mode d’intervention régionale en matière d’aménagement numérique
 
 * page 21 : "la Région adhère totalement aux objectifs de la SCORAN et affirme plus particulièrement les volontés suivantes :"
 	* "que 70% des habitants de chaque département de Provence Alpes Côte d’Azur aient accès aux nouveaux réseaux en fibre optique (FTTH) pour 2020"
@@ -105,21 +105,20 @@ Présentation rapide du document :
 		* "Les modalités sont adaptées aux projets de montée en débit"
 		* "Possibilité de soutien de quelques projets expérimentaux de desserte FTTH ou de desserte de zone d’activité"
 
-
-## 5 ANNEXES
+## 5 Annexes
 
 ### 5.1 Synthèse de la SCORAN
 
 * page 41 : 
 	STRATEGIE DE COHERENCE REGIONALE D’AMENAGEMENT NUMERIQUE DE PROVENCE-ALPES-COTE D’AZUR
-	Synthese
+	Synthèse
 
 ### 5.2 Document complet de la SCORAN
 
 * page 50 :
 	STRATEGIE DE COHERENCE REGIONALE D’AMENAGEMENT NUMERIQUE DE PROVENCE-ALPES-COTE D’AZUR
 
-##### (5.2) 2.2. INITIATIVES ET PROJETS D’AMENAGEMENT NUMERIQUE PUBLICS
+##### (5.2) 2.2. Initiatives et projets d'aménagement numérique publics
 
 * page 65 : "Les Réseaux d’Initiative Publique(RIP)"
 
@@ -130,14 +129,14 @@ Présentation rapide du document :
 	* "Le Conseil général des Alpes-Maritimes a également lancé un programme de traitement des zones blanches en zone de montagne et dans le haut-pays, qui s’est articulé avec le programme régional BLHD à la mi-2009."
 
 
-##### (5.2) 2.4. OPPORTUNITES D’ACCES A DES INFRASTRUCTURES EXISTANTES
+##### (5.2) 2.4. Opportunités d'accès à des infrastructures existantes
 
 * page 69 :
 
 	* "hormis le Vaucluse" ... "les autres départements ne disposent pas d’un réseau de collecte public sur l'ensemble de leur territoire. La plupart des collectivités met en avant que la construction d’un réseau de collecte est la première priorité, qui pourrait se transformer en un projet fédérateur à l’échelle de l’ensemble de la région."
 
-#### (5.2) 3. EVALUATION DE SCENARIOS TECHNICO-ECONOMIQUES
-##### (5.2) 3.1. PRINCIPES D’ELABORATION DES SCENARIOS
+#### (5.2) 3. Évaluation de scénarios technico-économiques
+##### (5.2) 3.1. Principe d'élaboration des scénarios
 
 * page 77 :
 
@@ -151,23 +150,23 @@ Présentation rapide du document :
 		* "Ces ordres de grandeur de coûts de construction du FTTH reposent sur l’hypothèse d’une très large réutilisation des fourreaux de France Telecom existants, et également des appuis aériens existants, qu’ils s’agissent de ceux de France Telecom ou du réseau électrique. Ils ne comprennent pas les coûts de location de ces infrastructures, ni le raccordement des abonnés, ni les frais financiers. Ce sont ces coûts de construction qui constituent la principale problématique économique dans le déploiement du FTTH."
 		* "Appliqué à la France entière, le mode d’évaluation des coûts de construction du FTTH selon la typologie présentée ci-dessus conduit à un coût total de 25 milliards d’euros, cohérent avec les dernières évaluations évoquées par l’Autorité de Régulation des Communications Electroniques et des Postes (ARCEP)."
 
-##### (5.2) 3.2. ORDRE DE GRANDEUR DE LA COUVERTURE TOUT FTTH
-##### (5.2) 3.3. AMBITION FTTH A LONG TERME
+##### (5.2) 3.2. Ordre de grandeur de la couverture tout FTTH
+##### (5.2) 3.3. Ambition FTTH à long terme
 
 * page 79 :
 	* "Ainsi une ambition à long terme (2030 au plus tard) de couverture de 100% des lignes en FTTH a été retenue en région Provence-Alpes-Côte d’Azur"
 	* "Les entretiens" ... "ont également montré des besoins réels à court terme en Très Haut Débit liés à leurs usages professionnels."
 
-##### (5.2) 3.4. EVALUATION DE TRAJECTOIRES A MOYEN TERME
+##### (5.2) 3.4. Évaluation de trajectoires à moyen
 
-* (5.2) 3.4.1. TRAJECTOIRE 1 : DEPLOYER LE FTTH SUR LES ZONES LES PLUS RENTABLES UNIQUEMENT, A HORIZON 2020, AU-DELA DE LA ZONE D’INTENTION D’INVESTISSEMENT DES OPERATEURS
-* (5.2) 3.4.2. TRAJECTOIRE 2 : DEVELOPPER LE FTTH SUR LE TERRITOIRE REGIONAL A HAUTEUR DE 70% MINIMUM DES LIGNES DE CHAQUE DEPARTEMENT A HORIZON 2020 ET PERMETTRE A MINIMA UN ACCES TRIPLE PLAY POUR TOUS
-* (5.2) 3.4.3. TRAJECTOIRE 3 : ASSURER UN DEBIT MINIMUM PERMETTANT LE TRIPLE PLAY POUR TOUS A MOINDRE COUT (LE DEPLOIEMENT FTTH EST LIMITE)
-* (5.2) 3.4.4. TRAJECTOIRE 4 : ASSURER UN DEBIT MINIMUM PERMETTANT LE TRIPLE PLAY POUR TOUS A MOINDRE COUT SANS UTILISATION DE LA TECHNOLOGIE RADIO (LE DEPLOIEMENT FTTH EST LIMITE)
-* (5.2) 3.4.5. A UTRES TRAJECTOIRES DERIV EES DES PRECEDENTES
-* (5.2) 3.4.6. INTERVENTION PUBLIQUE DANS LA ZONE D’INTENTION D’INVESTISSEMENT PRIVEE POST 2014
+* (5.2) 3.4.1. Trajectoire 1 : Déployer le FTTH sur les zones les plus rentables uniquement, à horizon 2020, au-delà de la zone d'intention d'investissement des opérateurs
+* (5.2) 3.4.2. Trajectoire 2 : Développer le FTTH sur le territoire régional à hauteur de 70% minimum des lignes de chaque département à horizon 2020 et permettre à minima un accès Triple-Play pour tous
+* (5.2) 3.4.3. Trajectoire 3 : Assurer un débit minimum permettant le Triple-Play pour tous à moindre coût (le déploiement FTTH est limité)-
+* (5.2) 3.4.4. Trajectoire 4 : Assurer un débit minimum permettant le Triple-Play pour tous à moindre coût sans utilisation de la technologie radio (le déploiement FTTH est limité)
+* (5.2) 3.4.5. Autres trajectoires dérivées des précédentes
+* (5.2) 3.4.6. Intervention publique dans la zone d'intention d'investissement privée post 2014
 
-#### (5.2) 3.5. CRITERE D’AMENAGEMENT NUMERIQUE DANS L’APPEL D’OFFRE POUR LA LICENCE 4G 800 MHZ
+#### (5.2) 3.5. Critère d'aménagement numérique dans l'appel d'offre pour la licence 4G 800 MHZ
 
 ----
 
