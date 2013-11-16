@@ -24,9 +24,10 @@ Le présent document a pour vocation de servir de compte rendu de l'Assemblée G
 # Passages habituels
 
 * revue des éléments faits depuis la dernière réunion
+
 	* notamment : l'adhésion de Teleragno à la Fédération FDN est validée par le CA de FFDN.
 * présentation de l'activité d'un FAI & de la fédération FDN (nouvel adhérent)
-* présentation bilan financier (recettes = adhésions, dépenses : frais de gestion bancaires)
+* présentation bilan financier (recettes = adhésions, dépenses = frais de gestion bancaire)
 
 # Logo
 
@@ -34,7 +35,7 @@ Notre graphiste a pris en compte les avis de la précédente réunion et a propo
 
 La première série est basée sur le thème de : Teleragno = toile en Provençal, Le Web est une toile --> il y a donc une toile + une araignée sur le logo.
 
-La seconde série est basée sur l'idée que Internet est un ensemble d'interconexions. Il y a donc dans cette proposition des noeuds positionnés à certaines extrémités des lettres de "Teleragno". Ces noeuds sont reliés entre eux, parfois en N&B, parfois en couleur.
+La seconde série est basée sur l'idée que Internet est un ensemble d'interconnexions. Il y a donc dans cette proposition des noeuds positionnés à certaines extrémités des lettres de "Teleragno". Ces noeuds sont reliés entre eux, parfois en N&B, parfois en couleur.
 
 Afin d'avoir l'avis de tous, un tour de table a été réalisé.
 
