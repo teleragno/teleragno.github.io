@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Réunion informelle le 07 Décembre 2013 à <Reste à définir> [annonce]"
+title: "Réunion informelle le 07 Décembre 2013 à --Reste à définir-- [annonce]"
 description: ""
 category:
 tags: [annonce]
