@@ -19,7 +19,7 @@ header: Articles par Tag
       <div class="panel-body">
         {% assign posts = tag[1] %}
         {% for post in posts %}
-        <div><span>{{post.date}} » </span><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></div>
+        <div><span>{{post.date | date_to_string }} » </span><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></div>
         {% endfor %}
       </div>
     </div>
