@@ -15,10 +15,12 @@ header: Articles par Tag
         </a>
       </h4>
     </div>
-    <div id="{{ tag[0] }}-collapse" class="panel-collapse collapse in">
+    <div id="{{ tag[0] }}-collapse" class="panel-collapse collapse">
       <div class="panel-body">
-        {% assign posts_collate = tag[1] %}
-        {% include JB/posts_collate %}
+        {% assign posts = tag[1] %}
+        {% for post in posts %}
+        <div><span>{{post.date}} » </span><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></div>
+        {% endfor %}
       </div>
     </div>
   </div>
