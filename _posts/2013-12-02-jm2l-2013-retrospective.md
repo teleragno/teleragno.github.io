@@ -31,7 +31,7 @@ Dans l'après midi nous avons assisté à deux conférences:
 * [Formats, c'est FOo !](http://jm2l.linux-azur.org/content/2013/formats-cest-foo-0)
 * [Neutralité du Net](http://jm2l.linux-azur.org/content/2013/neutralit-du-net-0)
 
-Puis nous avons également discuté Wi-fi avec les copains d'ILOTH avant 'aller dîner et de rentrer à Marseille.
+Puis nous avons également discuté Wi-fi avec les copains d'ILOTH avant d'aller dîner et de rentrer à Marseille.
 
 ---
 floreal
