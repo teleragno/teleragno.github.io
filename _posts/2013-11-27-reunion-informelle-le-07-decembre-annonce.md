@@ -29,6 +29,7 @@ Bien sûr nous pouvons prolonger la réunion ailleurs autour d'une bière par ex
 * logo
 * notifications (notamment les commits dans les dépôts)
 * liste de diffusion
+* un point sur l'avancement global de l'asso
 
 ---
 jpierre03 & floréal
