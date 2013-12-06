@@ -19,6 +19,15 @@ La prochaine réunion et surement la dernière de l'année se tiendra le samedi 
  
 Bien sûr nous pouvons prolonger la réunion ailleurs autour d'une bière par exemple.
 
+## Points à aborder : 
+
+* gestion bancaire
+	- frais
+	- accès au compte
+* SI
+* réseau collecte Wifi
+* logo
+
 ---
 jpierre03 & floréal
 
