@@ -19,7 +19,7 @@ La prochaine réunion et surement la dernière de l'année se tiendra le samedi 
  
 Bien sûr nous pouvons prolonger la réunion ailleurs autour d'une bière par exemple.
 
-## Points à aborder : 
+## Points à aborder
 
 * gestion bancaire
 	- frais
@@ -27,6 +27,8 @@ Bien sûr nous pouvons prolonger la réunion ailleurs autour d'une bière par ex
 * SI
 * réseau collecte Wifi
 * logo
+* notifications (notamment les commits dans les dépôts)
+* liste de diffusion
 
 ---
 jpierre03 & floréal
