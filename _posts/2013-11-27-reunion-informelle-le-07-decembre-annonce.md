@@ -10,8 +10,7 @@ tags: [annonce]
 La prochaine réunion et surement la dernière de l'année se tiendra le samedi 7 Décembre :
 
 * entre 14 et 17h
-* aux [Mille Babords](http://www.millebabords.org/). 
-	Un [Plan d'accès](http://osm.org/go/xVvjMxZcN).
+* aux [Mille Babords](http://www.millebabords.org/) dont voici un [plan d'accès](http://osm.org/go/xVvjMxZcN).
 
 		Mille Bâbords
 		Une tribune pour les luttes
