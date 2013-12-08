@@ -24,13 +24,15 @@ Bien sûr nous pouvons prolonger la réunion ailleurs autour d'une bière par ex
 * gestion bancaire
 	- frais
 	- accès au compte
+* possibilité de crowd-funding
 * SI
 * réseau collecte Wifi
 * logo
 * notifications (notamment les commits dans les dépôts)
 * liste de diffusion
 * un point sur l'avancement global de l'asso
+* AG FFDN 2014
 
 ---
-jpierre03 & floréal
+jpierre03 & floréal & taeradan
 
