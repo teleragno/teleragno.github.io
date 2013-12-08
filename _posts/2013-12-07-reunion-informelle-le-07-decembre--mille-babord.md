@@ -1,6 +1,11 @@
-% Réunion du 2013-12-07
-% 
-% 
+---
+layout: post
+title: "Réunion informelle le 07 Décembre 2013 aux Mille Babords"
+description: ""
+category:
+tags: [annonce]
+---
+{% include JB/setup %}
 
 # Présents
 
