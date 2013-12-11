@@ -13,8 +13,8 @@ tags: [annonce]
 
 # AG FFDN 2014 
 
-Le temps de transport estimé est le même que Migennes.
-Combien de personnes s'engage à y aller : 4 (arnaud, floréal, yves, ophélie)
+Le temps de transport estimé est le même que Migennes (~7-8h en voiture).
+Combien de personnes s'engage à y aller ? : 4 (arnaud, floréal, yves, ophélie)
 
 # Gestion bancaire
 
@@ -40,12 +40,15 @@ Actions  :
 
 * Consensus pour utiliser Dolibarr comme les autres FAI. (vote = 4)
 * Voir avec les assos l'utilisant déjà cet outil si possibilité de mutualisation. (vote = 5)
+	* À défaut, nous installerons une instance.
 
 # Crowd-sourcing / Crowd-funding
 
-* Explication sur le principe de financement participatif.
-* Les présents sont Ok pour le principe
-* -> Quel projet ? Quelles contreparties ? (adresse mail teleragno, adhésion à l'assos, membre d'honneur, autocollant, t-shirt, ...)
+* Explication sur le principe du financement participatif. (Forme de don / mécénat avec un rétribution d'une valeur inférieure)
+* Ok pour le principe (vote = 6)
+* Questions qui se posent :
+	* quel projet ? (coeur de réseau Wifi, routeur/pc, porte de collecte, inetnum, ...)
+	* quelles contreparties ? (adresse mail teleragno, adhésion à l'assos, membre d'honneur, autocollant, t-shirt, ...)
 
 Action :
 
@@ -59,10 +62,10 @@ Validation de la proposition de logo étendu et réduit (vote = 6)
 # Notifications & Listes de diffusion
 
 Actions : 
-* création de la liste notification@ml pour envois automatique des mails de commits (liste des fichiers modifiés)
+* Création de la liste notification@ml pour envois automatique des mails de commits (liste des fichiers modifiés)
 	* site web
-* création des ml pour les aliases actuels
-* forward massif des notifications de tous les dépôts vers adminsys@ml
+* Création des ml pour les aliases actuels
+* Forward massif des notifications de tous les dépôts vers adminsys@ml
 
 # Autre
 
@@ -70,5 +73,5 @@ Info :
 * [boutique Blue Network](http://boutique.bluenetech.com)
 
 Action :
-* remettre en ligne l bulletin d'adhésion
+* remettre en ligne le bulletin d'adhésion
 
