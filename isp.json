@@ -1,0 +1,29 @@
+{
+    "shortname": "TRG",
+    "name": "Teleragno",
+    "description": "FAI associatif Marseillais",
+    "logoURL": "http://www.teleragno.fr/assets/files/logo.png",
+    "website": "http://www.teleragno.fr/",
+    "email": "contact+web@teleragno.fr",
+    "mainMailingList": "teleragno@lists.teleragno.fr",
+    "creationDate": "2010-08-04",
+    "progressStatus": 5,
+    "memberCount": 11,
+    "subscriberCount": 0,
+    "chatrooms": [
+        "irc://irc.teleragno.fr/#teleragno"
+    ],
+    "registeredOffice": {
+        "extended-addess": "La Bastide Neuve Bât. F",
+        "street-address": "17, rue Saint Jean du Désert",
+        "locality": "Marseille",
+        "region": "Provence-Alpes-Côte-d'Azur",
+        "postal-code": "13012",
+        "country-name": "France"
+    },
+    "coordinates": {
+        "latitude": 43.30154,
+        "longitude": 5.437351
+    },
+    "version": 0.1
+}
