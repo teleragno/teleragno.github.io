@@ -25,5 +25,15 @@
         "latitude": 43.30154,
         "longitude": 5.437351
     },
+    "coveredAreas": [
+    {
+        "name": "Bouches-du-Rhônes (13)",
+        "technologies": ["dsl"],
+    },
+    {
+        "name": "Marseille (projet)",
+        "technologies": ["wifi"],
+    }
+    ],
     "version": 0.1
 }
