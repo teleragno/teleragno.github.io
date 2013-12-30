@@ -28,11 +28,11 @@
     "coveredAreas": [
         {
             "name": "Bouches-du-Rhônes -13-",
-            "technologies": ["dsl"],
+            "technologies": ["dsl"]
         },
         {
             "name": "Marseille -projet-",
-            "technologies": ["wifi"],
+            "technologies": ["wifi"]
         }
     ],
     "version": 0.1
