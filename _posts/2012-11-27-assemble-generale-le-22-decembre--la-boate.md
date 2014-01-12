@@ -3,7 +3,7 @@ layout: post
 title: "Assemblée Générale le 22 Décembre 2012 à La Bo[a]te"
 description: ""
 category:
-tags: ag
+tags: [ag, cr]
 ---
 {% include JB/setup %}
 

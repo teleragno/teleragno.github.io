@@ -3,11 +3,7 @@ layout: post
 title: "Réunion informelle le 27 Avril 2013 chez taeradan"
 description: ""
 category:
-tags:
-  - ffdn
-  - adsl
-  - wifi
-  - logo
+tags: [ffdn, adsl, wifi, logo, cr]
 ---
 {% include JB/setup %}
 

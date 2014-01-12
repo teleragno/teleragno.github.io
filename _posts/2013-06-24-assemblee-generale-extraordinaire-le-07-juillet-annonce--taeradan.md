@@ -3,7 +3,7 @@ layout: post
 title: "Assemblée Générale extraordinare le 7 Juillet 2013 chez taeradan [annonce]"
 description: ""
 category: 
-tags: []
+tags: [ag, annonce]
 ---
 {% include JB/setup %}
 

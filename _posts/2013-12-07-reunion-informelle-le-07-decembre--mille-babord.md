@@ -3,7 +3,7 @@ layout: post
 title: "Réunion informelle le 07 Décembre 2013 aux Mille Babords"
 description: ""
 category:
-tags: [annonce]
+tags: [cr]
 ---
 {% include JB/setup %}
 
