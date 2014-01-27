@@ -53,9 +53,9 @@ Présentation rapide du document :
 
 * page 15 : 
 
-	* "Même si la mobilisation des fonds européens est incertaine après 2013 (fin de la génération actuelle des PO FEDER), malgré des ambitions volontaristes de l’Europe indiquées ci-dessus (2Mbit/s pour tous en 2013, 30 Mbit/s pour tous et 100 Mbit/s pour 50% de la population en 2020), les réflexions des différentes collectivités en lien avec l’Etat, l’établissement de la SCORAN et des différents SDTAN sont un bon niveau de préparation pour faire valoir les niveaux de financements nécessaires dans le cadre des prochaines contractualisation 2014-2020. Le fléchage de crédits européens sur l’exercice 2014-2020 s’avère indispensable ne serait-ce que pour relever le défi des ambitions européennes annoncées à échéance 2020."
+	* "Même si la mobilisation des fonds européens est incertaine après 2013 (fin de la génération actuelle des PO FEDER), malgré des ambitions volontaristes de l’Europe indiquées ci-dessus (2Mbit/s pour tous en 2013, 30 Mbit/s pour tous et 100 Mbit/s pour 50% de la population en 2020), les réflexions des différentes collectivités en lien avec l'État, l’établissement de la SCORAN et des différents SDTAN sont un bon niveau de préparation pour faire valoir les niveaux de financements nécessaires dans le cadre des prochaines contractualisation 2014-2020. Le fléchage de crédits européens sur l’exercice 2014-2020 s’avère indispensable ne serait-ce que pour relever le défi des ambitions européennes annoncées à échéance 2020."
 
-### 4.2 Le Plan national très haut débit (PNTHD) de l’Etat
+### 4.2 Le Plan national très haut débit (PNTHD) de l'État
 
 * page 15 :
 
@@ -86,7 +86,7 @@ Présentation rapide du document :
 	* "L’aide régionale indiquée ci-dessus et concernant les déploiements du FTTH sera conditionnée à l’appartenance à ce syndicat mixte." 
 	* "Les composantes du projet régional se déclineront de la manière suivante" :
 
-		* (page 33) : "Création d’un GIX (Global Internet Exchange) probablement sur Marseille au débouché des fibres asiatiques permettant de développer les échanges de transit internet au niveau régional éviter que ceux-ci ne se fassent sur Paris ou Amsterdam (point d’échange de niveau 1 en Europe) et par conséquent de fournir une évacuation des flux Internet pour les Réseaux d’initiatives publiques existants et les futurs réseaux très haut débit à construire, tout en développant l’éco-système de l’Internet en Provence Alpes Côte d’Azur."
+		* (page 33) : "Création d’un GIX (Global Internet Exchange) probablement sur Marseille au débouché des fibres asiatiques permettant de développer les échanges de transit internet au niveau régional éviter que ceux-ci ne se fassent sur Paris ou Amsterdam (point d’échange de niveau 1 en Europe) et par conséquent de fournir une évacuation des flux Internet pour les Réseaux d’initiatives publiques existants et les futurs réseaux très haut débit à construire, tout en développant d'écosystèmes de l’Internet en Provence Alpes Côte d’Azur."
 
 * page 34 :
 
@@ -98,7 +98,7 @@ Présentation rapide du document :
 
 	* programme BLHD : "Un cadre d’intervention amendé, ainsi qu’une convention type de financement est annexé à la présente délibération. Les principales modifications concernent les points suivants :"
 
-		* "Les seuils d’intervention du Feder sont relevés à hauteur de 100 k€ minimum"
+		* "Les seuils d’intervention du FEDER sont relevés à hauteur de 100 k€ minimum"
 		* "Le financement régional peut être porté à hauteur de 60% en absence de financement FEDER"
 		* "Les projets de prolongation de DSP BLA seront éligibles au programme"
 		* "Tout projet devra être en cohérence avec la SCORAN, le SDTAN et l’éventuel RIP départemental ou communautaire"
@@ -110,19 +110,19 @@ Présentation rapide du document :
 ### 5.1 Synthèse de la SCORAN
 
 * page 41 : 
-	STRATEGIE DE COHERENCE REGIONALE D’AMENAGEMENT NUMERIQUE DE PROVENCE-ALPES-COTE D’AZUR
+	STRATÉGIE DE COHÉRENCE RÉGIONALE D'AMÉNAGEMENT NUMÉRIQUE DE PROVENCE-ALPES-COTE D’AZUR
 	Synthèse
 
 ### 5.2 Document complet de la SCORAN
 
 * page 50 :
-	STRATEGIE DE COHERENCE REGIONALE D’AMENAGEMENT NUMERIQUE DE PROVENCE-ALPES-COTE D’AZUR
+	STRATÉGIE DE COHÉRENCE RÉGIONALE D'AMÉNAGEMENT NUMÉRIQUE DE PROVENCE-ALPES-COTE D’AZUR
 
 ##### (5.2) 2.2. Initiatives et projets d'aménagement numérique publics
 
 * page 65 : "Les Réseaux d’Initiative Publique(RIP)"
 
-	* "La Communauté du Pays d'Aix (CPA) a établi un Réseau d’Initiative Publique (RIP) qui est actuellement en phase d‘exploitation. Le réseau a été inauguré le 7 octobre 2010. Ses objectifs principaux sont le raccordement des Zones d’Activités (ZA), des répartiteurs et la couverture des zones blanches. Des financements de l’Europe via le FEDER et de l’Etat (500 K€) via le CPER (Contrat de Projets Etat-Région) ont été obtenus."
+	* "La Communauté du Pays d'Aix (CPA) a établi un Réseau d’Initiative Publique (RIP) qui est actuellement en phase d‘exploitation. Le réseau a été inauguré le 7 octobre 2010. Ses objectifs principaux sont le raccordement des Zones d’Activités (ZA), des répartiteurs et la couverture des zones blanches. Des financements de l’Europe via le FEDER et de l'État (500 K€) via le CPER (Contrat de Projets Etat-Région) ont été obtenus."
 	* "La Communauté d'Agglomération Toulon Provence Méditerranée (TPM) a retenu son délégataire mi-2011 pour la Délégation de Service Public (DSP) de son RIP, qui aura pour cible le raccordement de zones d’activités et des principaux sites publics. La première phase du projet est un projet de raccordement optique de plusieurs NRA-ZO récemment déployés dans le cadre du programme régional « Boucles Locales Haut Débit »."
 	* "La Communauté d’Agglomération Dracénoise (CAD) a engagé une étude pour le lancement d’une délégation de service public. La première phase du projet consiste à réaliser plusieurs NRA-ZO dans le cadre du programme « Boucles Locales Haut Débit »."
 	* "Enfin, le Conseil général de Vaucluse est en phase de négociation d'une DSP pour l'établissement d'un Réseau de communications électroniques à Haut et Très Haut Débit visant notamment à la constitution d’un réseau de collecte (des collèges, des lycées, des sites publics, des entreprises dans et en dehors des zones d’activités, des « pôles d'équilibres et de services », le raccordement de NRA) et à déployer des lignes FTTH dès le premier établissement et tout au long du contrat de DSP en cohérence avec le Schéma Directeur Territorial d'Aménagement Numérique (SDTAN) voté le 8 juillet 2011. La signature du contrat est prévue d’ici fin 2011."
@@ -148,7 +148,7 @@ Présentation rapide du document :
 	* hypothèse :
 
 		* "Ces ordres de grandeur de coûts de construction du FTTH reposent sur l’hypothèse d’une très large réutilisation des fourreaux de France Telecom existants, et également des appuis aériens existants, qu’ils s’agissent de ceux de France Telecom ou du réseau électrique. Ils ne comprennent pas les coûts de location de ces infrastructures, ni le raccordement des abonnés, ni les frais financiers. Ce sont ces coûts de construction qui constituent la principale problématique économique dans le déploiement du FTTH."
-		* "Appliqué à la France entière, le mode d’évaluation des coûts de construction du FTTH selon la typologie présentée ci-dessus conduit à un coût total de 25 milliards d’euros, cohérent avec les dernières évaluations évoquées par l’Autorité de Régulation des Communications Electroniques et des Postes (ARCEP)."
+		* "Appliqué à la France entière, le mode d’évaluation des coûts de construction du FTTH selon la typologie présentée ci-dessus conduit à un coût total de 25 milliards d’euros, cohérent avec les dernières évaluations évoquées par l’Autorité de Régulation des Communications Électroniques et des Postes (ARCEP)."
 
 ##### (5.2) 3.2. Ordre de grandeur de la couverture tout FTTH
 ##### (5.2) 3.3. Ambition FTTH à long terme
@@ -157,7 +157,7 @@ Présentation rapide du document :
 	* "Ainsi une ambition à long terme (2030 au plus tard) de couverture de 100% des lignes en FTTH a été retenue en région Provence-Alpes-Côte d’Azur"
 	* "Les entretiens" ... "ont également montré des besoins réels à court terme en Très Haut Débit liés à leurs usages professionnels."
 
-##### (5.2) 3.4. Évaluation de trajectoires à moyen
+##### (5.2) 3.4. Évaluation de trajectoires à moyen terme
 
 * (5.2) 3.4.1. Trajectoire 1 : Déployer le FTTH sur les zones les plus rentables uniquement, à horizon 2020, au-delà de la zone d'intention d'investissement des opérateurs
 * (5.2) 3.4.2. Trajectoire 2 : Développer le FTTH sur le territoire régional à hauteur de 70% minimum des lignes de chaque département à horizon 2020 et permettre à minima un accès Triple-Play pour tous
@@ -166,19 +166,14 @@ Présentation rapide du document :
 * (5.2) 3.4.5. Autres trajectoires dérivées des précédentes
 * (5.2) 3.4.6. Intervention publique dans la zone d'intention d'investissement privée post 2014
 
-#### (5.2) 3.5. Critère d'aménagement numérique dans l'appel d'offre pour la licence 4G 800 MHZ
+#### (5.2) 3.5. Critère d'aménagement numérique dans l'appel d'offre pour la licence 4G 800 MHz
 
 ----
 
 (la suite est à venir)
 
-
-
-
-
-
-### 5.3 Cadre d’intervention du programme régional Boucles Locales Haut Débit 2012 (BLHD 2012)
-### 5.4 Convention type BLHD 2012
+### 5.3 Cadre d’intervention du programme régional Boucles Locales Haut Débit 2012 (BLHD 2012)
+### 5.4 Convention type BLHD 2012
 
 ---
 jpierre03
