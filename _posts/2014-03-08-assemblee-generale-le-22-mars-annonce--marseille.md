@@ -17,10 +17,20 @@ L'assemblée générale aura lieu le samedi 22 mars 2014 de 14h à 18h à :
    37, rue Guibal
    13003 Marseille
 
-L'ordre du jour n'est pas encore arrêté, et une réunion de bureau aura lieu
+
+L'ordre du jour de l'assemblée est le suivant :
+
+* bilan financier de l'asso.
+* rapport moral d'activité
+
+Questions complémentaires :
+
+* modalité de paiment de la cotisation : proposition pour une échéance à date fixe (fin janvier)  
+ 
+d'ici là pour faire un point d'avancement et préparer l'AG.
 d'ici là pour faire un point d'avancement et préparer l'AG.
 
-Je rappelle que l'assemblée générale est publique, aussi n'hésitez pas à faire
+Pour rappel que l'assemblée générale est publique, aussi n'hésitez pas à faire
 venir des personnes de votre entourage qui seraient intéressées par les
 activités de l'association.
 
