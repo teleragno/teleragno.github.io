@@ -22,13 +22,12 @@ L'ordre du jour de l'assemblée est le suivant :
 
 * bilan financier de l'asso.
 * rapport moral d'activité
+* soumission de la grille tarifaire des abonnements ADSL
 
-Questions complémentaires :
+Points complémentaires :
 
-* modalité de paiment de la cotisation : proposition pour une échéance à date fixe (fin janvier)  
- 
-d'ici là pour faire un point d'avancement et préparer l'AG.
-d'ici là pour faire un point d'avancement et préparer l'AG.
+* modalité de paiment de la cotisation : proposition pour une échéance à date fixe (fin janvier)
+* projet Wifi
 
 Pour rappel que l'assemblée générale est publique, aussi n'hésitez pas à faire
 venir des personnes de votre entourage qui seraient intéressées par les
