@@ -65,9 +65,10 @@ L'AG est l'occasion d'avoir l'ensemble des adhérents présents, aussi voici la 
 -> soit 46,96 E par mois pour le tarif normal  (30 + 16,96)
 
 
-|Type de tarif |  FAS  | Mensuel Teleragno | Total mensuel |
-|--------------|-------|-------------------|---------------|
-| Normal       |   85  | 30                | 46,96         |
+| Type de tarif |  FAS  | Mensuel Teleragno | Total mensuel |
+|---------------|-------|-------------------|---------------|
+| Normal        |   85  | 30                | 46,96         |
+|---------------|-------|-------------------|---------------|
 
 # Actions & Perspectives
 
