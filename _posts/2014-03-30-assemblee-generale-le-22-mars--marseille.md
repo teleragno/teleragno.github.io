@@ -39,7 +39,7 @@ Après la réalisation de la procédure ad-hoc :
 * le président reste inchangé (taeardan)
 * le secrétaire reste inchangé (jpierre03)
 * le trésorier reste inchangé (floreal)
-* atome intègre le bureau de Teleragno
+* Arnaud intègre le bureau de Teleragno (atome)
 
 Ce qui porte le nombre de membre du bureau à 4.
 
@@ -63,7 +63,7 @@ L'AG est l'occasion d'avoir l'ensemble des adhérents présents, aussi voici la 
 * (+ ~16,96 E de ligne fixe France Telecom, [source](http://boutique.orange.fr/ESHOP_mx_ft/?tp=F&ref=3496&IDCible=1&type=3))
 
 -> soit 46,96 E par mois pour le tarif normal  (30 + 16,96)
- 
+
 # Actions & Perspectives
 
 ## ADSL
@@ -92,7 +92,6 @@ Option de pose de matériel Wifi
 # Antennes
 
 Commande d'antennes ?
-
 
 --
 
