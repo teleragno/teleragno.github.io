@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Liens vers les outils des copains
-short_title: Outils externes
-header: Teleragno - Les vers les outils des copains
+short_title: Liens
+header: Liens et outils externes
 group: navigation
 ---
 {% include JB/setup %}
