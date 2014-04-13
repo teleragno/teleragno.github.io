@@ -9,7 +9,13 @@ group: navigation
 
 # Pad
 
-Outil collaboratif pour la saisie de texte per plusieurs personnes en même temps
+Outil collaboratif pour la saisie de texte per plusieurs personnes en même temps.
 
-* [pad de chez ilico.org](https://pad.ilico.org/)
+* [pad @ilico.org](https://pad.ilico.org/)
+
+# Déterminer une date de Rendez-Vous
+
+Outil pour choisir entre plusieurs dates dans un sondage.
+
+* [papillon @dubronetwork.fr](http://papillon.dubronetwork.fr)
 
