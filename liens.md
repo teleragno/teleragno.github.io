@@ -13,14 +13,14 @@ group: navigation
 
 
 [pad @ilico.org](https://pad.ilico.org/) ou [framapad @framasoft](http://framapad.org/)
-~	Outil collaboratif pour la saisie de texte per plusieurs personnes en même temps.
+	Outil collaboratif pour la saisie de texte per plusieurs personnes en même temps.
 
 
 ## Déterminer une date de Rendez-Vous
 
 
 * [papillon @dubronetwork.fr](http://papillon.dubronetwork.fr)
-~	Outil pour choisir entre plusieurs dates dans un sondage.
+	Outil pour choisir entre plusieurs dates dans un sondage.
 
 # Blogs
 
