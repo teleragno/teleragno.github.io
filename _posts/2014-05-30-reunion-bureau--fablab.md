@@ -9,7 +9,7 @@ tags: [ag]
 
 La réunion du bureau de l'association était un bon prétexte pour se réunir et faire un récapitulatif des actions en cours et à mener.
 
-Le [support de la réunion est disponible]{http://www.teleragno.fr/assets/files/2014/05/2014-05-30-reunion-bureau-fablab.pdf}
+Le [support de la réunion est disponible](/assets/files/2014/05/2014-05-30-reunion-bureau-fablab.pdf)
 
 --
 
