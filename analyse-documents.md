@@ -28,7 +28,7 @@ Présentation rapide du document :
 	* "Il s’agit d’anticiper et non pas d’attendre les nouveaux usages et de subir la loi des territoires, des pays qui ont su anticiper et prendre dès à présent une longueur d’avance."
 	* "La réflexion que nous menons sur l’aménagement numérique du territoire aura un véritable impact à long terme sur notre développement économique, *l’attractivité de notre Région* et par conséquent la création d’emplois."
 * page 5 :
-	* "Comment attirer de nombreuses entreprises" ... "n mettant à disposition des infrastructures modernes notamment télécoms"
+	* "Comment attirer de nombreuses entreprises" ... "en mettant à disposition des infrastructures modernes notamment télécoms"
 	* "La « qualité des services de télécommunications» «constitue le 3ème critère d’implantation des entreprises sur le territoire"
 	* "Pour les grandes entreprises du secteur des services aux entreprises, ce critère constitue même le premier critère d’implantation. selon l’étude annuelle 2009 du cabinet Wakeman & Cushfield."
 * page 6 :
