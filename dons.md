@@ -10,7 +10,7 @@ group: navigation
 # Moyens de l'association
 
 Teleragno a pour seuls fonds ou presque le montant de ses adhésions, les recettes des 
-services ne couvrent pour l'instant que les couts induits par ces derniers. Nous accepterons 
+services ne couvrent pour l'instant que les coûts induits par ces derniers. Nous accepterons 
 donc avec plaisir tout don, quelqu'en soit le montant.
 
 # Materiel
