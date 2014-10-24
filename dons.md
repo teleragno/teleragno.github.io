@@ -21,9 +21,9 @@ pas l'utilité nous serions ravis de pouvoir les employer dans notre infrastruct
 
 * Serveurs 1U
 * Cartes réseau Gigabit (Intel ou Broadcom de préférence)
-* RAM DDR2-667/800 ou PC2-5300F ECC
+* RAM DDR2-667/800 ou PC2-5300F ECC (compatibles HP)
 * Disques SAS/SATA 2.5"
-* Paniers de disques HP
+* Paniers de disques HP 2.5" (compatibles G5)
 * Switchs manageables
 
 N'hésitez pas à nous contacter si vous pensez avoir quelque chose qui pourrait nous servir mais 
