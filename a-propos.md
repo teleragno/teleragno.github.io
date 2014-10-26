@@ -17,7 +17,7 @@ Cette fédération regroupe différents FAI associatifs (Fournisseurs d'accès �
 
 Pour nous contacter, différents moyens :
 
-* la liste de diffusion
+* la liste de difffusion
 * IRC : [irc://irc.teleragno.fr/#teleragno](irc://irc.teleragno.fr/#teleragno)
 
 # La Fédération FDN
