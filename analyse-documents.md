@@ -19,6 +19,31 @@ Présentation rapide du document :
 	* référence : annexe de la délibération n° 11-1630
 	* pages : 149
 * la décision prise : [version locale (.pdf)](/assets/files/2011/12/Deliberation_16122011.pdf) ou [version originale (.pdf)](http://emergences-numeriques.regionpaca.fr/fileadmin/SCORAN_groupe_de_travail/SCORAN/Deliberation_16122011.pdf)
+* le document avec des zones intéressantes surlignées : [pdf](/assets/files/2014/09/SCORAN-annotations-jpierre03.pdf)
+
+# Analyse, notes et commentaires
+
+L'approche annoncée de ce SCORAN est intéressante par les arguments proposés pour justifier le besoin d'une politique d'aménagement numérique du territoire : 
+
+1. inutile d'attendre
+	* c'est l'offre en réseau qui va crééer les besoins (page 4)
+
+2. les réseaux sont source d'innovation & d'intérêt pour les entreprises
+	* exposé sous la forme anticiper les besoins = prendre une longueur d'avance (page 4)
+	* [les réseaux ont] "un véritable impact à long terme sur, ..., l'attractivité de notre Région, ..., la création d'emplois" (page 4)
+	* "attirer de nombreuses entreprises" ... "en mettant à disposition des infrastructures modernes notamment télécoms" (page 5)
+	* "La « qualité des services de télécommunications» «constitue le 3ème critère d’implantation des entreprises sur le territoire" (page 5)
+	* "Pour les grandes entreprises du secteur des services aux entreprises, ce critère constitue même le premier critère d’implantation. selon l’étude annuelle 2009 du cabinet Wakeman & Cushfield."" (page 5)
+
+3. il faut déployer du FTTH, les autres solutions sont des méthodes d'attentes
+	* "La technologie la plus performante et la plus pérenne pour accompagner cette augmentation des débits est la fibre optique jusqu’à l’abonné (FTTH : Fiber To The Home), *seule technologie actuellement à même de garantir une symétrie des débits montants et descendants et qui offre les perspectives d’évolutions de débit les plus intéressantes*." (page 6)
+
+	* justification en utilisant les arguments de l'Europe et de l'Etat avec la vision 2020 :
+		* tous les citoyens de l'UE avec des débits >30 Mbit/s et 50% des ménages avec un débit > 100 Mbit/s pour la vision Européenne.
+		* couverture de l'intégralité du territoire en Très Haut Débit à l'orizon 2025, et 70% du territoire pour 2020.
+	
+		Note sur la vision française : il s'agit d'une arnaque sémantique. 
+		
 
 # Extraits du document
 
