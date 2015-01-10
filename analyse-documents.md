@@ -30,7 +30,7 @@ L'approche annoncée de ce SCORAN est intéressante par les arguments proposés 
 
 2. les réseaux sont source d'innovation & d'intérêt pour les entreprises
 	* exposé sous la forme anticiper les besoins = prendre une longueur d'avance (page 4)
-	* [les réseaux ont] "un véritable impact à long terme sur, ..., l'attractivité de notre Région, ..., la création d'emplois" (page 4)
+	* (les réseaux ont) "un véritable impact à long terme sur, ..., l'attractivité de notre Région, ..., la création d'emplois" (page 4)
 	* "attirer de nombreuses entreprises" ... "en mettant à disposition des infrastructures modernes notamment télécoms" (page 5)
 	* "La « qualité des services de télécommunications» «constitue le 3ème critère d’implantation des entreprises sur le territoire" (page 5)
 	* "Pour les grandes entreprises du secteur des services aux entreprises, ce critère constitue même le premier critère d’implantation. selon l’étude annuelle 2009 du cabinet Wakeman & Cushfield."" (page 5)
