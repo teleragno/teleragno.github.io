@@ -10,7 +10,7 @@ pygments: false
 # so be sure to set them if your theme uses them.
 #
 title : Teleragno
-description: Fournisseur d'accès internet associatif à Marseille
+description: "Fournisseur d'accès internet associatif à Marseille"
 author :
   name : Teleragno
   email : contact+web@teleragno.fr
