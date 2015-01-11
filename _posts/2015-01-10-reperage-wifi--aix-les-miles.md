@@ -107,7 +107,7 @@ Un logo de Bouygues Telecom est également présent mais discret. Peut être un 
 
 Les coordonnées du point haut en place :
 
-* 43.492447, 5.330627
+* `43.492447, 5.330627`
 * soit 43°29'32.8"N 5°19'50.3"E
 * [une vue directe](https://www.google.fr/maps/place/43%C2%B029'32.9%22N+5%C2%B019'50.2%22E/@43.49246,5.330624,148m/data=!3m2!1e3!4b1!4m2!3m1!1s0x0:0x0)
 
