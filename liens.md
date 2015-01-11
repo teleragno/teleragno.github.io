@@ -21,7 +21,7 @@ Outil collaboratif pour la saisie de texte per plusieurs personnes en même temp
 
 Outil pour choisir entre plusieurs dates dans un sondage.
 
-* [papillon @dubronetwork.fr](http://papillon.dubronetwork.fr)
+* [vote @teleragno.fr](http://vote.teleragno.fr)
 
 # Blogs
 
