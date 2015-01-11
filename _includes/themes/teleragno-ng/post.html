@@ -7,6 +7,9 @@
   <div class="date"><span>Publié le : {{ page.date | date_to_long_string }}</span></div>
 </div>
 
+<div class="toc"></div>
+<hr />
+
 {{ content }}
 <hr>
 <div class="container">
@@ -27,3 +30,9 @@
 <hr>
 {% include JB/comments %}
 </div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+	$('.toc').toc();
+});
+</script>
