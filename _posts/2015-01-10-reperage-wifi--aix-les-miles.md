@@ -29,6 +29,8 @@ Sur une possible intervention :
 * comprenez-vous que l'association est une mutualisation des ressources ? (-> implication sur la politique de coûts & des frais non masqués & d'installation)
 
 * êtes-vous locataire du logement ? y-a-t-il un syndic ? est-il professionnel ou constitué de co-propriétaires ?
+* connaissez-vous les règles locales pour les accès aux parties communes ? aux toits ?
+* le batiment est-il soumis à des régles d'urbanisme particulières (ex: momument historique) ?
 
 Avec les réponses à ces questions, nous avons une vision peu technique de l'environnement et avons une indication sur le nombre de personnes intéressées par un raccordement.
 Cette information est utile car elle permet d'envisager des solutions plus complexes et coûteuses (= installer plus d'équipements pour atteindre le lieu géographiquement isolé)
