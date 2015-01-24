@@ -9,11 +9,13 @@ tags: [wifi]
 
 # Objectifs
 
-L'idée de l'opération de reconnaissance réalisée est simple : déterminer les différents éléments nécessaire pour raccorder au net un quartier isolé à proximité d'Aix-les-Miles.
+L'idée de l'opération de reconnaissance réalisée est simple : déterminer les différents éléments nécessaires pour raccorder au net un quartier isolé.
+En l'occurence  à proximité d'Aix-les-Miles.
 
 # Démarche & questions
 
-Afin de pouvoir produire une synthèse de la visite et essayer de capitaliser nos différentes visites, voici une liste des questions que l'on pose. Elles ont pour but de faire un point rapide des éléments clefs.
+Afin de pouvoir produire une synthèse de la visite et essayer de capitaliser nos différentes visites, voici une liste des questions que l'on pose.
+Elles ont pour but de faire un point rapide des éléments clefs.
 
 Sur l'existant :
 
@@ -141,4 +143,3 @@ Les habitations et la végétation ne sont pas prises en compte.
 --
 
 jpierre03
-
