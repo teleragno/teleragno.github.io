@@ -10,7 +10,7 @@ tags: []
 Alors que pour certains, le pont du 15 août se passait à la plage en train de bronzer, une délégation de Teleragno s'est motivée pour traverser la France et rejoindre la Bourgogne.
 
 Ce n'est pas l'attrait de la boisson couleur sang qui nous a réveillé (très tôt) le vendredi matin, mais l'envie de participer à une Assemblée Générale.
-Bien que celle-ci soit prévue pour avoir lieu le samedi et le dimanche, elle a débutée d'une manière informelle par du bavardage entre les différents membres de la [fédération FDN](http://www.ffdn.org/fr/principes-fondateurs) (et non membres d'ailleurs, on est pas sectaire).
+Bien que celle-ci soit prévue pour avoir lieu le samedi et le dimanche, elle a débutée d'une manière informelle par du bavardage entre les différents membres de la [fédération FDN](http://www.ffdn.org/fr/principes-fondateurs) (et non membres d'ailleurs, nous ne sommes pas sectaires = _viens au rassemblement qui veux_).
 En terme pompeux, nous avons tissés des liens, rencontré des gens et échangés nos expériences.
 Tout ça autour d'un repas prévu pour "une petite quinzaine de personnes" qui s'est fini à une quarantaine.
 
