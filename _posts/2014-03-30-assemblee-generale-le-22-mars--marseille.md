@@ -10,7 +10,7 @@ tags: [ag]
 L'assemblée générale de l'association s'est déroulée comme prévu le 22 mars.
 Evolix nous a gentiment accueilli dans ses loacauw.
 
-Nous avons abordés différent ssujet, dont voici une retranscription synthétique.
+Nous avons abordés différents sujets, dont voici une retranscription synthétique.
 
 # Rapport d'activité de l'association (année 2013)
 
@@ -45,10 +45,10 @@ Ce qui porte le nombre de membre du bureau à 4.
 
 # Grille de tarifs ADSL
 
-L'AG est l'occasion d'avoir l'ensemble des adhérents présents, aussi voici la proposition de grille de trarif proposée et acceptée par l'assemblée.
+L'AG est l'occasion d'avoir l'ensemble des adhérents présents, aussi voici la proposition de grille de tarifs proposée et acceptée par l'assemblée.
 
 1. choix de ne faire que du dégroupé
-2. choix de proposer un tarif normal et un tarif solidaire
+2. choix de proposer un _tarif normal_ et un _tarif solidaire_
 
 ## Tarif normal
 
@@ -102,4 +102,3 @@ Commande d'antennes ?
 --
 
 jpierre03
-
