@@ -29,6 +29,9 @@ Pour nous contacter, différents moyens :
   * [les tarifs en vigeur](/2014/03/30/assemblee-generale-le-22-mars--marseille/#grille-de-tarifs-adsl)
 * des adresses @IP sur des machines en datacentre sur marseille
   * l'association a un  numéro d'AS, un bloc d'adresse IPv4 et un bloc IPv6
+* service DNS
+  * l'hébergement de zone dns personnalisés (pas d'interface web pour la mise à jour, utilisation de git)
+  * proposer à l'adhérent un domaine en `xxx.abo.teleragno.fr`
 
 Services en cours de construction :
 
