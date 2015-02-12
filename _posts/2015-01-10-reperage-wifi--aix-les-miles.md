@@ -107,7 +107,7 @@ Un logo de Bouygues Telecom est également présent mais discret. Peut être un 
 
 ![présence SFR](/assets/files/2014/11/IMG_0125.jpg)
 
-## Pourquoi concrètement un point haut intéresse un FAI ?
+# Pourquoi concrètement un point haut intéresse un FAI ?
 
 Les coordonnées du point haut en place :
 
