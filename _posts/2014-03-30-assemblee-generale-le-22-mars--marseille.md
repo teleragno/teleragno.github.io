@@ -8,7 +8,7 @@ tags: [ag]
 {% include JB/setup %}
 
 L'assemblée générale de l'association s'est déroulée comme prévu le 22 mars.
-Evolix nous a gentiment accueilli dans ses loacaux.
+Evolix nous a gentiment accueilli dans ses locaux.
 
 Nous avons abordé différents sujets, dont voici une retranscription synthétique.
 
