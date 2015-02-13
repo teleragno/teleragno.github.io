@@ -27,8 +27,6 @@ Pour nous contacter, différents moyens :
 * un accès à internet utilisant l'ADSL.
   * ce service est celui de FDN en marque blanche
   * [les tarifs en vigeur](/2014/03/30/assemblee-generale-le-22-mars--marseille/#grille-de-tarifs-adsl)
-* des adresses @IP sur des machines en datacentre sur marseille
-  * l'association a un  numéro d'AS, un bloc d'adresse IPv4 et un bloc IPv6
 * service DNS
   * l'hébergement de zone dns personnalisés (pas d'interface web pour la mise à jour, utilisation de git)
   * proposer à l'adhérent un domaine en `xxx.abo.teleragno.fr`
@@ -39,7 +37,7 @@ Services en cours de construction :
   * [exemple d'action](/2015/01/10/reperage-wifi--aix-les-miles/)
   * --> pouvoir relier des habitations à un réseau wifi à construire
 * VPN
-  * --> pouvoir proposer un point de sortie neutre et sans filtrage
+ * --> pouvoir proposer un point de sortie neutre et sans filtrage
 * hébergement de machines virtuelles (VM)
   * pouvoir héberger des applications en salle machine sur le réseau TRG-NET
 
