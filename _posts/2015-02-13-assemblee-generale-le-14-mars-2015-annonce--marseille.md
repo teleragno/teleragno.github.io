@@ -17,7 +17,7 @@ Le lieu est [a définir]
 ![lieu](/assets/files/2015/02/lieu.jpg)
 [-PAS BONNE ADRESSE- sur une carte](http://www.openstreetmap.org/node/2703915824)
 
-![[-PAS BONNE ADRESSE- sur une carte -- ESSAI](http://www.openstreetmap.org/node/2703915824)](/assets/files/2015/02/lieu.jpg)
+[![lieu](/assets/files/2015/02/lieu.jpg)](http://www.openstreetmap.org/node/2703915824)
 
 # Quand ?
 
