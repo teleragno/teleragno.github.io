@@ -14,9 +14,6 @@ Nous avons le plaisir de vous annoncer que nous allons bientôt procéder à not
 
 Le lieu est [a définir]
 
-![lieu](/assets/files/2015/02/lieu.jpg)
-[-PAS BONNE ADRESSE- sur une carte](http://www.openstreetmap.org/node/2703915824)
-
 [![lieu](/assets/files/2015/02/lieu.jpg)](http://www.openstreetmap.org/node/2703915824)
 
 # Quand ?
