@@ -8,12 +8,21 @@ tags: [ag, annonce]
 
 {% include JB/setup %}
 
-Nous avons le plaisir de vous annoncer que nous allons bientôt procéder à notre Assemblée Générale annuelle.
+Nous avons le plaisir de vous annoncer que nous allons bientôt procéder à notre `Assemblée Générale annuelle`.
 
-L'assemblée générale aura lieu le samedi 14 mars 2015 de 14h à 18h.
+# Où ?
 
 Le lieu est [a définir]
 
+# Quand ?
+
+L'assemblée générale aura lieu le samedi 14 mars 2015 de 14h à 18h.
+
+# Comment ?
+
+Tous ensemble :)
+
+# Quoi ?
 
 L'ordre du jour de l'assemblée est le suivant :
 
