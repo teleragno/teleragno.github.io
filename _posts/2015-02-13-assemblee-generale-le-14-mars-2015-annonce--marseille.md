@@ -14,10 +14,12 @@ Nous avons le plaisir de vous annoncer que nous allons bientôt procéder à not
 
 Le lieu est gentiment proposé par [Evolix](http://www.evolix.fr/)
 
-  > Evolix
-  > Pôle Média - 2e étage (Hall Sud)
-  > 37, rue Guibal
-  > 13003 Marseille
+> Evolix
+
+> Pôle Média - 2e étage (Hall Sud)
+
+> 37, rue Guibal
+> 13003 Marseille
 
 [![lieu](/assets/files/2015/02/lieu.jpg)](http://www.openstreetmap.org/node/1519817974#map=17/43.30956/5.38963)
 
