@@ -85,7 +85,7 @@ Il est temps d'aller voir le château d'eau de plus près.
 
 ![entrée petit arbois](/assets/files/2014/11/IMG_0100.jpg)
 
-Une installation qui semble déjà bien utilisées.
+Une installation qui semble déjà bien utilisée.
 
 ![chateau d'eau complet](/assets/files/2014/11/IMG_0102.jpg)
 
