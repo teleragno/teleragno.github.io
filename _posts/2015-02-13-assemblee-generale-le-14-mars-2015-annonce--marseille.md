@@ -8,17 +8,24 @@ tags: [ag, annonce]
 
 {% include JB/setup %}
 
-Nous avons le plaisir de vous annoncer que nous allons bientôt procéder à notre `Assemblée Générale annuelle`.
+Nous avons le plaisir de vous annoncer que nous allons bientôt procéder à notre `Assemblée Générale Ordinaire`.
 
 # Où ?
 
-Le lieu est [a définir]
+Le lieu est gentiment proposé par [Evolix](http://www.evolix.fr/)
 
-[![lieu](/assets/files/2015/02/lieu.jpg)](http://www.openstreetmap.org/node/1345363096)
+> Evolix
+
+> Pôle Média - 2e étage (Hall Sud)
+
+> 37, rue Guibal
+> 13003 Marseille
+
+[![lieu](/assets/files/2015/02/lieu.jpg)](http://www.openstreetmap.org/node/1519817974#map=17/43.30956/5.38963)
 
 # Quand ?
 
-L'assemblée générale aura lieu le samedi 14 mars 2015 de 14h à 18h.
+L'assemblée générale aura lieu le _samedi 14 mars 2015 de 14h à 18h_.
 
 # Comment ?
 
