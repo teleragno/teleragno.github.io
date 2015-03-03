@@ -60,14 +60,16 @@ Objectifs :
 * migration blog github ?
 * configuration routeur (windu)
 * configuration serveur d'application (HP, nom ?)
-* debian ?
-* quelles applications ?
+ * debian ?
+ * quelles applications ?
 
 * mise en place de services
-* VPN IPv6 ?
-* VPN IPv4 ?
-* hébergement de VM ? quelle techno  : virtualisation, isolation processus, ... ? quel outil ?
-* quid utilisation  teleragno.net ?
+ * VPN IPv6 ?
+ * VPN IPv4 ?
+ * hébergement de VM ?
+  * quelle techno  : virtualisation, isolation processus, ... ?
+  * quel outil ?
+ * quid utilisation  teleragno.net ?
 
 ## Problèmes / questions
 
@@ -80,8 +82,8 @@ Objectifs :
 # A préparer - TODO
 
 * liste des adhérents
-* à jours de cotisation
-* pas à jour
+ * à jours de cotisation
+ * pas à jour
 * feuille d'émargement à partir de la liste des adhérents
 * copie des status & règlement intérieur
 * diaporamma avec les différentes sections
