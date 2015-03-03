@@ -42,9 +42,7 @@ Points complémentaires :
 
 * avancement des différents projets
 
-Pour rappel que l'assemblée générale est publique, aussi n'hésitez pas à faire
-venir des personnes de votre entourage qui seraient intéressées par les
-activités de l'association.
+Pour rappel : l'assemblée générale est publique, aussi n'hésitez pas à faire venir des personnes de votre entourage qui seraient intéressées par les activités de l'association.
 
 En espérant vous voir nombreux, à bientôt !
 
