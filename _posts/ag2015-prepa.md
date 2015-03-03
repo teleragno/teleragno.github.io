@@ -8,34 +8,32 @@ début prevu : 14h
 * délais de 30 min
 *signature des feuilles d'émargement
 * rappel adhésion
-*15 min
---> il faut que les cotisations soient à jour pour participer à l'AG (c'est inscrit comme tel dans les status)
+  * 15 min
+  --> il faut que les cotisations soient à jour pour participer à l'AG (c'est inscrit comme tel dans les status)
 
 # Assemblée Générale
 
 * rapport moral d'activité
-* 10 min
-* @président
+  * 10 min
+  * @président
 * bilan comptable
-* 10 min
-* @trésorier
+  * 10 min
+  * @trésorier
 * mouvements dans bureau ?
-* ? élection président ?
-* ? élection des membres du bureau ?
-* affectation des postes par @president
+  * ? élection président ?
+  * ? élection des membres du bureau ?
+  * affectation des postes par @president
 * rédaction compte rendu
-* 15 min
-* @secretaire
+  * 15 min
+  * @secretaire
+* impression + signature compte rendu
+  * 10 min
 
-* impression + signature compte rendu - 10 min
-
-fin ag
-
------------------------------------------------------
+----
 
 Sujets à évoquer le même jour, mais pas dans l'AG à proprement parler
 
-# Vide de l'association
+# Vie de l'association
 
 ## Projets
 
@@ -56,7 +54,6 @@ Objectifs :
 * sur quels projets ?
 * quid de prises de position publique ?
 * post ressources RIPE ?
-* 
 
 ## Technique
 
@@ -65,7 +62,7 @@ Objectifs :
 * configuration serveur d'application (HP, nom ?)
 * debian ?
 * quelles applications ?
-* 
+
 * mise en place de services
 * VPN IPv6 ?
 * VPN IPv4 ?
@@ -74,7 +71,7 @@ Objectifs :
 
 ## Problèmes / questions
 
-* mailing list en panne ...
+* mailling list en panne ...
 * mails de demandes sans réponse
 * préparation des réunions fédération peu/pas réalisée
 * fréquence des réunions du bureau
