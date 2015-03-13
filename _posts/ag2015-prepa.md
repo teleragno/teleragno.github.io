@@ -6,11 +6,12 @@ début prevu : 14h
 
 * arrivée
 * délais de 30 min
-*signature des feuilles d'émargement
 * rappel adhésion
   * 15 min
   --> il faut que les cotisations soient à jour pour participer à l'AG (c'est inscrit comme tel dans les status)
-
+* mise à jour liste adhérents
+* signature des feuilles d'émargement
+ 
 # Assemblée Générale
 
 * rapport moral d'activité
@@ -70,6 +71,10 @@ Objectifs :
   * quelle techno  : virtualisation, isolation processus, ... ?
   * quel outil ?
  * quid utilisation  teleragno.net ?
+
+## Organisation
+
+*  "réfléchir à une sorte de réunion de suivi mensuelle, quitte à la faire sur IRC"
 
 ## Problèmes / questions
 
