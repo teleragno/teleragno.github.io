@@ -85,17 +85,27 @@ Objectifs :
 ## Technique
 
 * migration blog github ?
+ * -> non. on reste tel quel
+ * www2.teleragno.fr sert de préprod
+* mise en place de services
+ * hébergement de VM ?
+  * quelle techno  : virtualisation, isolation processus, ... ?
+  * quel outil ?
+  * décision :
+   * tarif libre avec 7 € minimum
+   * 1 core Xeon
+   * 1 Go de RAM
+   * 20 Go
+ * VPN IPv6 ?
+ * VPN IPv4 ?
+
+
+
 * configuration routeur (windu)
 * configuration serveur d'application (HP, nom ?)
  * debian ?
  * quelles applications ?
 
-* mise en place de services
- * VPN IPv6 ?
- * VPN IPv4 ?
- * hébergement de VM ?
-  * quelle techno  : virtualisation, isolation processus, ... ?
-  * quel outil ?
  * quid utilisation  teleragno.net ?
 
 ## Problèmes / questions
