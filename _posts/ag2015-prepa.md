@@ -70,10 +70,17 @@ Objectifs :
 
 ## Actions Communication
 
+* réserver un compte facebook
+* réserver le compte twitter : as201335
+* post ressources RIPE ?
+ * -> atome
+
 * sur quels sujets ?
 * sur quels projets ?
 * quid de prises de position publique ?
-* post ressources RIPE ?
+* quid d'ouvrir un compte facebook pour répliquer le compte twitter ?
+
+--> voir le redmine. 
 
 ## Technique
 
@@ -90,8 +97,6 @@ Objectifs :
   * quelle techno  : virtualisation, isolation processus, ... ?
   * quel outil ?
  * quid utilisation  teleragno.net ?
-
-
 
 ## Problèmes / questions
 
