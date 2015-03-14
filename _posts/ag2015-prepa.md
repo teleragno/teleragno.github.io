@@ -49,13 +49,23 @@ Sujets à évoquer le même jour, mais pas dans l'AG à proprement parler
 ### Wifi
 
 Objectifs :
-(pour juin ?)
-* xxx
+
+* tests à réaliser entres 2 habitations floréal
+ * d'ici fin avril
+* planifier une liaison entre la Ste Victoire et l'IUT d'Aix
+ * prendre contact avec nedseb -> d'ici fin mars
+* expérience de poser une antenne chez atome & utiliser un VPN L2
+* recontacter le Petit Arbois pour avoir des nouvelles sur le château d'eau
 
 ### Adsl
 
 Objectifs :
 * xxc
+
+## Organisation
+
+* "réfléchir à une sorte de réunion de suivi mensuelle, quitte à la faire sur IRC"
+* préparer l'Assemblée Générale de la FFDN prévue début mai vers Nantes
 
 ## Actions Communication
 
@@ -80,10 +90,7 @@ Objectifs :
   * quel outil ?
  * quid utilisation  teleragno.net ?
 
-## Organisation
 
-*  "réfléchir à une sorte de réunion de suivi mensuelle, quitte à la faire sur IRC"
-*  préparer l'Assemblée Générale de la FFDN prévue début mai vers Nantes
 
 ## Problèmes / questions
 
