@@ -11,8 +11,14 @@ début prevu : 14h
   --> il faut que les cotisations soient à jour pour participer à l'AG (c'est inscrit comme tel dans les status)
 * mise à jour liste adhérents
 * signature des feuilles d'émargement
- 
+
+# Réunion du bureau
+
+* Validation de l'adhésion d'un adhérent
+
 # Assemblée Générale
+
+* début effectif à 14h30
 
 * rapport moral d'activité
   * 10 min
@@ -20,10 +26,12 @@ début prevu : 14h
 * bilan comptable
   * 10 min
   * @trésorier
-* mouvements dans bureau ?
-  * ? élection président ?
-  * ? élection des membres du bureau ?
+* mouvements dans bureau
+  * élection président -> même président
   * affectation des postes par @president
+   * trésorier : floreal
+   * secretaire : jpierre03
+   * vice-president : atome
 * rédaction compte rendu
   * 15 min
   * @secretaire
