@@ -60,12 +60,13 @@ Objectifs :
 ### Adsl
 
 Objectifs :
-* xxc
+
+* un volontaire pour prendre une connexion à partir d'avril
 
 ## Organisation
 
-* "réfléchir à une sorte de réunion de suivi mensuelle, quitte à la faire sur IRC"
-* préparer l'Assemblée Générale de la FFDN prévue début mai vers Nantes
+* réaliser une réunion physique par mois
+* en cas d'impossibilité, faire une réunion par IRC
 
 ## Actions Communication
 
@@ -109,3 +110,8 @@ Objectifs :
 * copie des status & règlement intérieur
 * diaporamma avec les différentes sections
 * schéma réseau avec MaJ
+
+# Plus tard 
+
+* préparer l'Assemblée Générale de la FFDN prévue début mai vers Nantes
+
