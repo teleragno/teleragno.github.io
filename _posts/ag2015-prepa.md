@@ -75,6 +75,7 @@ Objectifs :
 ## Organisation
 
 *  "réfléchir à une sorte de réunion de suivi mensuelle, quitte à la faire sur IRC"
+*  préparer l'Assemblée Générale de la FFDN prévue début mai vers Nantes
 
 ## Problèmes / questions
 
