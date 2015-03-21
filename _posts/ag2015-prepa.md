@@ -1,4 +1,20 @@
-Teleragno, préparation de l'Assemblée Générale de 2015
+---
+layout: post
+title: "Assemblée Générale Ordinaire du 14 Mars 2015"
+description: ""
+category: 
+tags: [ag]
+---
+
+{% include JB/setup %}
+
+# CR Assemblée Générale
+
+* début effectif à 14h30
+
+* rapport moral d'activité
+
+# ---------------
 
 # Préparatifs 
 
