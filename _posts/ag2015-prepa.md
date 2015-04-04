@@ -86,10 +86,34 @@ Après vote pour le candidat au poste de président, l'élection du bureau est r
 * trésorier					: floreal
 * chargé de communication	: fabien
 
+# Vie de l'association
+## Projets
+### Wifi
+
+Actions :
+
+* tests à réaliser entres 2 habitations par floréal
+ * d'ici fin avril
+* planifier une liaison entre la Ste Victoire et l'IUT d'Aix
+ * prendre contact avec @nedseb -> d'ici fin mars
+* expérience de poser une antenne chez atome & utiliser un VPN L2
+* recontacter le Petit Arbois pour avoir des nouvelles sur le château d'eau
+
+### ADSL
+
+* un volontaire pour prendre une connexion à partir d'avril
+
+
+## Organisation
+
+* réaliser une réunion physique par mois
+* en cas d'impossibilité, faire une réunion par IRC
+
+
+### Communication
+
 # ---------------
-
 # Préparatifs 
-
 * arrivée
 * délais de 30 min
 * rappel adhésion
@@ -99,60 +123,8 @@ Après vote pour le candidat au poste de président, l'élection du bureau est r
 * signature des feuilles d'émargement
 
 # Réunion du bureau
-
 * Validation de l'adhésion d'un adhérent
-
-# Assemblée Générale
-
-* début effectif à 14h30
-
-* rapport moral d'activité
-  * 10 min
-  * @président
-* bilan comptable
-  * 10 min
-  * @trésorier
-* mouvements dans bureau
-  * élection président -> même président
-  * affectation des postes par @president
-   * trésorier : floreal
-   * secretaire : jpierre03
-   * vice-president : atome
-* rédaction compte rendu
-  * 15 min
-  * @secretaire
-* impression + signature compte rendu
-  * 10 min
-
-----
-
-Sujets à évoquer le même jour, mais pas dans l'AG à proprement parler
-
-# Vie de l'association
-
-## Projets
-
-### Wifi
-
-Objectifs :
-
-* tests à réaliser entres 2 habitations floréal
- * d'ici fin avril
-* planifier une liaison entre la Ste Victoire et l'IUT d'Aix
- * prendre contact avec nedseb -> d'ici fin mars
-* expérience de poser une antenne chez atome & utiliser un VPN L2
-* recontacter le Petit Arbois pour avoir des nouvelles sur le château d'eau
-
-### Adsl
-
-Objectifs :
-
-* un volontaire pour prendre une connexion à partir d'avril
-
-## Organisation
-
-* réaliser une réunion physique par mois
-* en cas d'impossibilité, faire une réunion par IRC
+# ---------------
 
 ## Actions Communication
 
