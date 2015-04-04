@@ -8,17 +8,66 @@ tags: [ag]
 
 {% include JB/setup %}
 
-# CR Assemblée Générale
+# Compte Rendu Assemblée Générale 2015
 
 * début effectif à 14h30
 
-* rapport moral d'activité
+## Rapport moral d'activité
+
+### Obtention adresse IP et numéro de système autonome
+
+* utilisation de Opdop comme prestataire pour obtenir les ressources
+* bloc IPv4 (/24), IPv6 (/48), et ASN
+
+### Assemblée générale FFDN 2014
+
+* C'était cool
+
+### Test de liaison Aix -> Sainte Victoire
+
+* expédition menée conjointement par le LabAix et Teleragno
+* but : organisation d'évènements au refuge de la Sainte Victoire (Code Retreat)
+* but officieux : montrer que nos antennes roxent (10km de liaison)
+* problème rencontré : personne pour tenir l'antenne sur Aix...
+* points positifs :
+    * antenne + adaptateur PoE maison + batterie 12V de modélisme = :)
+    * emplacement de choix le long de la balustrade avec une barre en métal prise dans la roche et le béton
+    * validation expérimentale de la faisabilité de la solution
+
+### Visite à Aix-les-Milles
+
+* visite d'un futur adhérent au Nord de l'aérodrome d'Aix les Milles
+* terrain plat, quelques points hauts repérés, dont les pylônes de l'étoile et le château d'eau du Petit Arbois
+* visite de la zone du petit Arbois
+    * château d'eau utilisé par Orange et SFR
+    * Internet amené via faisceaux hertziens
+    * distribution de fibre optique et de réseau téléphonique
+* contact pris avec les gestionnaires de la zone
+	* pas de possibilité immédiate d'utiliser le château d'eau, il doit être renforcé courant 2015
+	* il faut attendre la fin des travaux pour demander des devis de raccordement/ utilisation du
+
+### Visite aux Chutes-Lavie
+
+* visite d'un futur adhérent aux Chutes-Lavie
+* vue dégagée sur la moitié Ouest du pôle média de la Belle de Mai
+* Mat déjà en place pour la télévision, placé en bonne position
+* Accès simple au toit (pour l'instant)
+
+## Comptabilité
+
+### Balance & Bilan 2014
+
+
+(version courte)
+
+* les comptes de cette année sont l'équilibre, légèrement positif en fin d'année suite à des dons.
+* l'association a fonctionné au travers des adhésions et de dons
+
+* pas de problème particulier
 
 # ---------------
 
 # Préparatifs 
-
-début prevu : 14h
 
 * arrivée
 * délais de 30 min
