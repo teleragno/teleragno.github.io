@@ -57,7 +57,6 @@ tags: [ag]
 
 ### Balance & Bilan 2014
 
-
 (version courte)
 
 * les comptes de cette année sont l'équilibre, légèrement positif en fin d'année suite à des dons.
@@ -103,14 +102,28 @@ Actions :
 
 * un volontaire pour prendre une connexion à partir d'avril
 
-
 ## Organisation
 
 * réaliser une réunion physique par mois
 * en cas d'impossibilité, faire une réunion par IRC
 
+## Actions Communication
 
-### Communication
+Constat :
+
+* nous avons besoin d'une meilleure communication autour des activités réalisée 
+* nous ne communiquons pas assez sur le projet wifi.
+* les moyens de communication utilisés (notamment IRC) ne facilitent pas le contact avec les cibles-utilisateur non technique
+	* à nous de diversifier les moyens de communication pour des outils plus grand public
+
+Actions à réaliser :
+
+* réserver un compte facebook
+* réserver le compte twitter : as201335
+* article pour indiquer l'obtention des ressources du RIPE
+ * -> atome
+
+
 
 # ---------------
 # Préparatifs 
@@ -126,17 +139,7 @@ Actions :
 * Validation de l'adhésion d'un adhérent
 # ---------------
 
-## Actions Communication
 
-* réserver un compte facebook
-* réserver le compte twitter : as201335
-* post ressources RIPE ?
- * -> atome
-
-* sur quels sujets ?
-* sur quels projets ?
-* quid de prises de position publique ?
-* quid d'ouvrir un compte facebook pour répliquer le compte twitter ?
 
 --> voir le redmine. 
 
@@ -183,6 +186,13 @@ Actions :
 * copie des status & règlement intérieur
 * diaporamma avec les différentes sections
 * schéma réseau avec MaJ
+
+## communication
+
+* sur quels sujets ?
+* sur quels projets ?
+* quid de prises de position publique ?
+* quid d'ouvrir un compte facebook pour répliquer le compte twitter ?
 
 # Plus tard 
 
