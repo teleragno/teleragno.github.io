@@ -65,6 +65,27 @@ tags: [ag]
 
 * pas de problème particulier
 
+## Élection du Bureau
+
+### Situation actuelle
+
+* président : taeradan
+* secrétaire : jpierre03
+* trésorier : floreal
+
+### Changements
+
+Le président à annoncé qu'il se représentait cette année, mais qu'il remettrait son mandat l'année suivante
+
+Après vote pour le candidat au poste de président, l'élection du bureau est réalisée.
+
+À l'issue, le président désigne parmi les membres du bureau :
+
+* vice-président			: atome
+* secrétaire				: jpierre03
+* trésorier					: floreal
+* chargé de communication	: fabien
+
 # ---------------
 
 # Préparatifs 
