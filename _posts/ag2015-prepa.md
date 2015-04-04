@@ -123,7 +123,21 @@ Actions à réaliser :
 * article pour indiquer l'obtention des ressources du RIPE
  * -> atome
 
+## Technique
 
+* migration blog github
+	* l'idée : utiliser les facilités de github pour déployer facilement le site web de l'asso.
+ 	* -> non. on reste tel quel. Ok pour utiliser github comme pré-prod et comme moyen pour faciliter la création d'articles.
+	* www2.teleragno.fr sert de préprod
+* mise en place de services
+	* hébergement de machines virtuelles (VM)
+		* quelle techno : virtualisation
+		* quel outil : utilisation de ganeti pour gérer les VM
+		* décisions :
+			* tarif libre avec 7 € minimum
+			* 1 core Xeon
+			* 1 Go de RAM
+			* 20 Go
 
 # ---------------
 # Préparatifs 
@@ -144,19 +158,7 @@ Actions à réaliser :
 --> voir le redmine. 
 
 ## Technique
-
-* migration blog github ?
- * -> non. on reste tel quel
- * www2.teleragno.fr sert de préprod
 * mise en place de services
- * hébergement de VM ?
-  * quelle techno  : virtualisation, isolation processus, ... ?
-  * quel outil ?
-  * décision :
-   * tarif libre avec 7 € minimum
-   * 1 core Xeon
-   * 1 Go de RAM
-   * 20 Go
  * VPN IPv6 ?
  * VPN IPv4 ?
 
