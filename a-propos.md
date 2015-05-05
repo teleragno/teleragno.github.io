@@ -15,6 +15,8 @@ Elle s'inscrit dans le mouvement des FAI locaux, mouvement initié par [FDN](htt
 Depuis juin 2013, Teleragno est membre de la [Fédération FDN](http://www.ffdn.org).
 Cette fédération regroupe différents FAI associatifs (Fournisseurs d'accès à Internet).
 
+Depuis décembre 2014, Teleragno dispose d'un [numéro d'AS](https://fr.wikipedia.org/wiki/Autonomous_System) (AS201335) et de préfixes IPv4 et IPv6 qui nous permettent d'être indépendants de nos fournisseurs de connectivité.
+
 Pour nous contacter, différents moyens :
 
 * la liste de diffusion
@@ -29,17 +31,16 @@ Pour nous contacter, différents moyens :
   * [les tarifs en vigeur](/2014/03/30/assemblee-generale-le-22-mars--marseille/#grille-de-tarifs-adsl)
 * service DNS
   * l'hébergement de zone dns personnalisés (pas d'interface web pour la mise à jour, utilisation de git)
-  * proposer à l'adhérent un domaine en `xxx.abo.teleragno.fr`
+  * proposer à l'adhérent un domaine en `xxx.adh.teleragno.fr`
 
 Services en cours de construction :
 
 * accès à internet par Wifi
   * [exemple d'action](/2015/01/10/reperage-wifi--aix-les-miles/)
   * --> pouvoir relier des habitations à un réseau wifi à construire
-* VPN
- * --> pouvoir proposer un point de sortie neutre et sans filtrage
+* VPN (afin de pouvoir proposer un point de sortie neutre et sans filtrage)
 * hébergement de machines virtuelles (VM)
-  * pouvoir héberger des applications en salle machine sur le réseau TRG-NET
+  * --> pouvoir héberger des applications en salle machine sur le réseau TRG-NET
 
 # La Fédération FDN
 
