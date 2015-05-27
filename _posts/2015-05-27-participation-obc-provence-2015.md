@@ -7,6 +7,8 @@ tags: [conference, wifi]
 
 La communauté des Makers d’Aix-en-Provence et de sa région organise une manifestation appelée [Open Bidouille Camp Provence](http://obcprovence.com/fr/), à la Méjanes, cité du Livre d’Aix-en-Provence, les 29 et 30 Mai 2015.
 
+![OBC Provence 2015]({{ site.url }}/assets/files/2015/05/logo-obcp.png)
+
 Un Open Bidouille Camp est une fête populaire dédiée au partage de connaissances et à la transmission de savoir-faire, à la bidouille ou au « Fais-le toi-même » (DIY), en mode atelier.
 Le public est invité à découvrir, tester, expérimenter gratuitement diverses activités créatives, l’essentiel étant de faire par soi-même pour acquérir des compétences réutilisables par la suite.
 
