@@ -12,3 +12,7 @@ Venir sur place est facile, la cité du livre étant juste à côté de la gare 
 Si vous voulez nous rencontrer, c'est donc le moment idéal, nous aurons le temps, la place et quelques antennes pour répondre à vos questions sur l'accès à Internet par Wifi.
 
 Plus de détails pratiques sur la [page d'information de l'OBC Provence](http://obcprovence.com/fr/infos/).
+
+------
+
+taeradan

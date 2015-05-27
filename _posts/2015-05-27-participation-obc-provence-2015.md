@@ -20,3 +20,7 @@ Teleragno participera à cet évènnement en tant que fournisseur d'accès par W
 Nous tiendrons également un stand pendant la conférence, n'hésitez pas à venir nous rendre visite !
 
 Plus de détails pratiques sur la [page d'information de l'OBC Provence](http://obcprovence.com/fr/infos/)
+
+------
+
+taeradan
