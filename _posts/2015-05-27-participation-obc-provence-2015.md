@@ -14,12 +14,12 @@ Différents thèmes y sont abordés : cuisine, jardinage, électronique, informa
 
 L’esprit de cette manifestation est de permettre aux participants de retrouver un peu d’autonomie et de liberté de choix.
 
-Depuis leur création en septembre 2012, dix-sept Open Bidouille Camp ont eu lieu dans toute la France : http://openbidouille.net/post/96976836682/combien-dopen-bidouille-camp-depuis-2012
+Depuis leur création en septembre 2012, dix-sept Open Bidouille Camp (OBC) ont eu lieu dans toute la France : [Liste des OBC](http://openbidouille.net/post/96976836682/combien-dopen-bidouille-camp-depuis-2012).
 
-Teleragno participera à cet évènnement en tant que fournisseur d'accès par Wifi pour les makers.
+Teleragno participera à cet évènement en tant que fournisseur d'accès par Wifi pour les makers.
 Nous tiendrons également un stand pendant la conférence, n'hésitez pas à venir nous rendre visite !
 
-Plus de détails pratiques sur la [page d'information de l'OBC Provence](http://obcprovence.com/fr/infos/)
+Plus de détails pratiques sur la [page d'information de l'OBC Provence](http://obcprovence.com/fr/infos/).
 
 ------
 
