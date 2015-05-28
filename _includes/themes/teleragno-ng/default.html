@@ -28,19 +28,6 @@
       <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
     -->
     <script type="text/javascript" src="{{ ASSET_PATH }}/js/jquery.js"></script>
-    <script type="text/javascript">
-var konamiCodeArray = [], konamiCodeKey = '38,38,40,40,37,39,37,39,66,65';
-$(document).keydown(function(e) {
-  konamiCodeArray.push(e.keyCode);
-  if (konamiCodeArray.toString().indexOf(konamiCodeKey) >= 0) {
-    $.getScript("https://raw.github.com/PaskR/Sardines/master/sardines.js", function() {
-      haQuEstCeQuOnEstSerre({checkSize: false});
-    });
-
-    konamiCodeArray = [];
-  }
-});
-    </script>
 
   </head>
 
