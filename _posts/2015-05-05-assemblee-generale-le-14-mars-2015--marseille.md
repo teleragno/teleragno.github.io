@@ -132,6 +132,7 @@ Actions à réaliser :
  	* -> non. on reste tel quel. Ok pour utiliser github comme pré-prod et comme moyen pour faciliter la création d'articles.
 	* www2.teleragno.fr sert de préprod
 * mise en place de services
+
 	* hébergement de machines virtuelles (VM)
 		* quelle techno : virtualisation
 		* quel outil : utilisation de ganeti pour gérer les VM
