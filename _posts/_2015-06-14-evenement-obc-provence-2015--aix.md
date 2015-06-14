@@ -40,11 +40,14 @@ Utilisation de l'outil d'Ubiquiti permettant la gestion des antennes pour réali
 ![Tests au fablab 3](obc-test-lab-3.jpg)
 ![Tests au fablab 4](obc-test-lab-4.jpg)
 
+## Installation
+
+* tirage de câble
+* vérification que la zone couverte est celle annoncée
+
 ![Tests sur place 1](obc-test-insitu-1.jpg)
 ![Tests sur place 2](obc-test-insitu-2.jpg)
 ![Tests sur place 3](obc-test-insitu-3.jpg)
-
-## Installation
 
 ## En fonctionnement
 
@@ -62,6 +65,10 @@ Utilisation de l'outil d'Ubiquiti permettant la gestion des antennes pour réali
 * des points à améliorer : noob pour tenir un stand.
 
 --> A refaire.
+
+## catch phrase 
+
+* "En tant que FAI, notre job sur l'évènement est simple : que le réseau fonctionne sans que les utilisateurs n'aient à s'en soucier."
 
 
 ------
