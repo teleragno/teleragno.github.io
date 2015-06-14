@@ -7,7 +7,7 @@ tagline: Fournisseur d'accès internet associatif à Marseille
 {% include JB/setup %}
 
 <div class="row">
-  <div class="col-sm-6 col-md-6">
+  <div class="col-sm-6 col-md-4">
     <div class="thumbnail">
       <img src="http://lorempixel.com/128/128/nature/" alt="...">
       <div class="caption">
@@ -19,7 +19,7 @@ tagline: Fournisseur d'accès internet associatif à Marseille
       </div>
     </div>
   </div>
-  <div class="col-sm-6 col-md-6">
+  <div class="col-sm-6 col-md-4">
     <div class="thumbnail">
       <img src="http://lorempixel.com/g/128/128/nature/" alt="...">
       <div class="caption">
@@ -29,6 +29,18 @@ tagline: Fournisseur d'accès internet associatif à Marseille
 		Nous sommes attachés à la neutralité du net.
 	</p>
         <p><a href="/a-propos.html" class="btn btn-primary" role="button">En savoir plus</a> </p>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-6 col-md-4">
+    <div class="thumbnail">
+      <img src="/asset/files/2015/02/lieu.jpg" alt="...">
+      <div class="caption">
+        <h3>Nous rencontrer</h3>
+        <p>
+		La permanance mensuelle de l'association sera  ...
+	</p>
+        <p><a href="/2015/05/27/permanence-juin/" class="btn btn-primary" role="button">En savoir plus</a> </p>
       </div>
     </div>
   </div>
