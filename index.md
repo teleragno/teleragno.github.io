@@ -27,8 +27,6 @@ tagline: Fournisseur d'accès internet associatif à Marseille
         <p>
 		Teleragno est un FAI associatif, local, membre de la Fédération FDN.
 		Nous sommes attachés à la neutralité du net.
-
-		Tout cela est obscurs ? Venez nous rencontrer.
 	</p>
         <p><a href="/a-propos.html" class="btn btn-primary" role="button">En savoir plus</a> </p>
       </div>
