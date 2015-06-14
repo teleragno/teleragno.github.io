@@ -15,7 +15,7 @@ tagline: Fournisseur d'accès internet associatif à Marseille
         <p>
 		L'association est capable de fournir à ses adhérents différents types de service comme : WiFi, boîte mail, VPN, ...
 	</p>
-        <p><a href="/services.html" class="btn btn-primary" role="button">Voir les services</a> </p>
+        <p><a href="/services.html" class="btn btn-primary" role="button">En savoir plus</a> </p>
       </div>
     </div>
   </div>
@@ -23,9 +23,14 @@ tagline: Fournisseur d'accès internet associatif à Marseille
     <div class="thumbnail">
       <img src="http://lorempixel.com/g/128/128/nature/" alt="...">
       <div class="caption">
-        <h3>Thumbnail label</h3>
-        <p>...</p>
-        <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+        <h3>L'association</h3>
+        <p>
+		Teleragno est un FAI associatif, local, membre de la Fédération FDN.
+		Nous sommes attachés à la neutralité du net.
+
+		Tout cela est obscurs ? Venez nous rencontrer.
+	</p>
+        <p><a href="/a-propos.html" class="btn btn-primary" role="button">En savoir plus</a> </p>
       </div>
     </div>
   </div>
