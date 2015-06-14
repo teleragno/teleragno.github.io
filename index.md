@@ -36,7 +36,7 @@ tagline: Fournisseur d'accès internet associatif à Marseille
   </div>
 </div>
 
-----
+<div class="row">
 
 <h2>Les dernier articles</h2>
 
@@ -45,4 +45,6 @@ tagline: Fournisseur d'accès internet associatif à Marseille
 {% endfor %}
 
 [plus d'articles]({{ BASE_PATH }}/archive.html)
+</div>
+
 
