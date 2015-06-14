@@ -1,9 +1,6 @@
 ---
 layout: page
 title: Services disponibles aux adhérents
-header: Teleragno
-tagline: Teleragno
-group: navigation
 ---
 {% include JB/setup %}
 
