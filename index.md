@@ -46,7 +46,7 @@ tagline: Fournisseur d'accès internet associatif à Marseille
  <h3>{{ post.date | date_to_string }} &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
 {% endfor %}
 
-[plus d'articles]({{ BASE_PATH }}/archive.html)
+<a href="/archive.html">plus d'articles</a>
 </div>
 
 
