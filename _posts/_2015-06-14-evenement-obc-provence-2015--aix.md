@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Teleragno à l'OBC 2015, WiFi à gogo !"
+category: 
+tags: [evenement]
+---
+
 # Présence de Teleragno à l'Open Bidouille Camp 2015 
 
 ## Introduction
