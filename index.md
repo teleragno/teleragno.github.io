@@ -13,7 +13,7 @@ tagline: Fournisseur d'accès internet associatif à Marseille
       <div class="caption">
         <h3>Services</h3>
         <p>...</p>
-        <p><a href={{ services_path }} class="btn btn-primary" role="button">voir les services</a> </p>
+        <p><a href="{{ services_path }}" class="btn btn-primary" role="button">voir les services</a> </p>
       </div>
     </div>
   </div>
