@@ -12,8 +12,10 @@ tagline: Fournisseur d'accès internet associatif à Marseille
       <img src="http://lorempixel.com/128/128/nature/" alt="...">
       <div class="caption">
         <h3>Services</h3>
-        <p>...</p>
-        <p><a href="/services.html" class="btn btn-primary" role="button">voir les services</a> </p>
+        <p>
+		L'association est capable de fournir à ses adhérents différents types de service comme : WiFi, boîte mail, VPN, ...
+	</p>
+        <p><a href="/services.html" class="btn btn-primary" role="button">Voir les services</a> </p>
       </div>
     </div>
   </div>
