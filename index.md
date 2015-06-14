@@ -11,9 +11,9 @@ tagline: Fournisseur d'accès internet associatif à Marseille
     <div class="thumbnail">
       <img src="http://lorempixel.com/128/128/nature/" alt="...">
       <div class="caption">
-        <h3>Thumbnail label</h3>
+        <h3>Services</h3>
         <p>...</p>
-        <p><a href="{{ service_path }}" class="btn btn-primary" role="button">voir les services</a> </p>
+        <p><a href="{{ services_path }}" class="btn btn-primary" role="button">voir les services</a> </p>
       </div>
     </div>
   </div>
