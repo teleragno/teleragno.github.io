@@ -36,6 +36,10 @@ tagline: Fournisseur d'accès internet associatif à Marseille
   </div>
 </div>
 
+----
+
+<h2>Les dernier articles</h2>
+
 {% for post in site.posts limit:5 %}
  <h3>{{ post.date | date_to_string }} &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
 {% endfor %}
