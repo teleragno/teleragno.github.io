@@ -9,7 +9,7 @@ tagline: Fournisseur d'accès internet associatif à Marseille
 <div class="row">
   <div class="col-sm-6 col-md-4">
     <div class="thumbnail">
-      <img src="..." alt="...">
+      <img src="http://lorempixel.com/128/128/nature/" alt="...">
       <div class="caption">
         <h3>Thumbnail label</h3>
         <p>...</p>
@@ -19,7 +19,7 @@ tagline: Fournisseur d'accès internet associatif à Marseille
   </div>
   <div class="col-sm-6 col-md-4">
     <div class="thumbnail">
-      <img src="..." alt="...">
+      <img src="http://lorempixel.com/128/128/nature/" alt="...">
       <div class="caption">
         <h3>Thumbnail label</h3>
         <p>...</p>
