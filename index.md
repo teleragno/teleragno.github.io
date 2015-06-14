@@ -10,5 +10,5 @@ tagline: Fournisseur d'accès internet associatif à Marseille
  <h3>{{ post.date | date_to_string }} &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
 {% endfor %}
 
-<h3>[... Plus d'articles]({{ BASE_PATH }}/archive.html)</h3>
+[plus d'articles]({{ BASE_PATH }}/archive.html)
 
