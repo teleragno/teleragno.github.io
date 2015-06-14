@@ -34,7 +34,7 @@ tagline: Fournisseur d'accès internet associatif à Marseille
   </div>
   <div class="col-sm-6 col-md-4">
     <div class="thumbnail">
-      <img src="/asset/files/2015/02/lieu.jpg" alt="...">
+      <img src="/assets/files/2015/02/lieu.jpg" alt="...">
       <div class="caption">
         <h3>Nous rencontrer</h3>
         <p>
