@@ -13,13 +13,13 @@ tagline: Fournisseur d'accès internet associatif à Marseille
       <div class="caption">
         <h3>Thumbnail label</h3>
         <p>...</p>
-        <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+        <p><a href="{{ service_path }}" class="btn btn-primary" role="button">voir les services</a> </p>
       </div>
     </div>
   </div>
   <div class="col-sm-6 col-md-4">
     <div class="thumbnail">
-      <img src="http://lorempixel.com/128/128/nature/" alt="...">
+      <img src="http://lorempixel.com/g/128/128/nature/" alt="...">
       <div class="caption">
         <h3>Thumbnail label</h3>
         <p>...</p>
