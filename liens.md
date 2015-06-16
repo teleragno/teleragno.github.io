@@ -2,31 +2,14 @@
 layout: page
 title: Liens vers les outils des copains
 short_title: Liens
-header: Liens et outils externes
+header: Liens
 group: navigation
 ---
 {% include JB/setup %}
 
-# Outils externes
+# Services
 
-## Pad
-
-Outil collaboratif pour la saisie de texte per plusieurs personnes en même temps.
-
-* [pad @ilico.org](https://pad.ilico.org/)
-* [framapad @framasoft](http://framapad.org/)
-
-# Outils internes
-
-## Déterminer une date de Rendez-Vous
-
-Outil pour choisir entre plusieurs dates dans un sondage.
-
-* [vote @teleragno.fr](http://vote.teleragno.fr)
-
-## Suivi de projet
-
-* [redmine](http://projets.teleragno.fr/)
+[Voir la page dédiée](/services.html)
 
 # Blogs
 
