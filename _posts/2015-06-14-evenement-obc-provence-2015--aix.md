@@ -14,7 +14,7 @@ tags: [evenement]
 * un projet en plusieurs étapes
 * des résultats intéressants : ça marche, les gens sont contents, des compliments reçus
 * une expérience à recommencer
-* publicité FFDN
+* publicité pour le concept de Fournisseur d'Accès à Internet en fonctionnement associatif, référence à FFDN
 
 ## Repérage des lieux
 
