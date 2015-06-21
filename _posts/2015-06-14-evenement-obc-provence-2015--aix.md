@@ -34,35 +34,35 @@ Réaliser une visite sur le terrain consiste en plusieurs étapes dont :
 
 --> tout cela permet de définir une solution technique en fonction des contraintes
 
-![Positionnement tableau](obc-position-1.jpg)
+![Positionnement tableau](/assets/files/2015/05/obc/obc-position-1.jpg)
 
-![Repérage 1](obc-reperage-lieux-1.jpg)
-![Repérage 2](obc-reperage-lieux-2.jpg)
-![Repérage 3](obc-reperage-lieux-3.jpg)
-![Repérage 4](obc-reperage-lieux-4.jpg)
-![Repérage 5](obc-reperage-lieux-5.jpg)
+![Repérage 1](/assets/files/2015/05/obc/obc-reperage-lieux-1.jpg)
+![Repérage 2](/assets/files/2015/05/obc/obc-reperage-lieux-2.jpg)
+![Repérage 3](/assets/files/2015/05/obc/obc-reperage-lieux-3.jpg)
+![Repérage 4](/assets/files/2015/05/obc/obc-reperage-lieux-4.jpg)
+![Repérage 5](/assets/files/2015/05/obc/obc-reperage-lieux-5.jpg)
 
 ### Simulation sur Ordinateur
 
 Utilisation de l'outil d'Ubiquiti permettant la gestion des antennes pour réaliser une simulation de couverture réseau.
 
-![Simulation 1](obc-simulation-1.jpg)
+![Simulation 1](/assets/files/2015/05/obc/obc-simulation-1.jpg)
 
 ## Test du matériel
 
-![Tests au fablab 1](obc-test-lab-1.jpg)
-![Tests au fablab 2](obc-test-lab-2.jpg)
-![Tests au fablab 3](obc-test-lab-3.jpg)
-![Tests au fablab 4](obc-test-lab-4.jpg)
+![Tests au fablab 1](/assets/files/2015/05/obc/obc-test-lab-1.jpg)
+![Tests au fablab 2](/assets/files/2015/05/obc/obc-test-lab-2.jpg)
+![Tests au fablab 3](/assets/files/2015/05/obc/obc-test-lab-3.jpg)
+![Tests au fablab 4](/assets/files/2015/05/obc/obc-test-lab-4.jpg)
 
 ## Installation
 
 * tirage de câble
 * vérification que la zone couverte est celle annoncée
 
-![Tests sur place 1](obc-test-insitu-1.jpg)
-![Tests sur place 2](obc-test-insitu-2.jpg)
-![Tests sur place 3](obc-test-insitu-3.jpg)
+![Tests sur place 1](/assets/files/2015/05/obc/obc-test-insitu-1.jpg)
+![Tests sur place 2](/assets/files/2015/05/obc/obc-test-insitu-2.jpg)
+![Tests sur place 3](/assets/files/2015/05/obc/obc-test-insitu-3.jpg)
 
 ## En fonctionnement
 
