@@ -29,3 +29,4 @@ Depuis l'été 2013, Teleragno est membre de la [Fédération FDN](http://www.ff
 L'idée est de fédérer différents groupes de personnes autour des questions de l'accès à internet avec une [logique d'essaimage local](http://www.ffdn.org/fr/projets). Ceci s'applique bien évidemment dans les zones non couvertes par des quelques gros FAI habituels au travers de mode de connexion différents de l'adsl. Tel que le WiFi pour [Pc Light 89](http://www.pclight.fr/comment-ca-marche/), ou [tetaneutral.net](http://www.tetaneutral.net/)
 
 [Plus d'information sur les principes, les objectifs et actions de la Fédération](http://www.ffdn.org/fr/principes-fondateurs)
+
