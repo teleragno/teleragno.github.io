@@ -7,7 +7,7 @@
     "email": "contact+web@teleragno.fr",
     "mainMailingList": "teleragno@lists.teleragno.fr",
     "creationDate": "2010-08-04",
-    "progressStatus": 5,
+    "progressStatus": 7,
     "memberCount": 11,
     "subscriberCount": 0,
     "ffdnMemberSince": "2013-05-12",
@@ -28,8 +28,8 @@
     },
     "coveredAreas": [
         {
-            "name": "Bouches-du-Rhônes -13- -en cours-",
-            "technologies": ["dsl"]
+            "name": "Bouches-du-Rhônes -13-",
+            "technologies": ["vpn"]
         },
         {
             "name": "Marseille -projet-",
