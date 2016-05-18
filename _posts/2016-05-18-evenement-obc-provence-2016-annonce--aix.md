@@ -13,7 +13,7 @@ Teleragno participe de nouveau à l'[Open Bidouille Camp Provence, édition 2016
 
 L'évènement à lieu à la Bibliothèque Mejannes, Aix-en-Provence les 27 et 28 Mai 2016.
 
-![http://obcprovence.com/wp-content/uploads/2016/05/cropped-header-1.png]
+![](http://obcprovence.com/wp-content/uploads/2016/05/cropped-header-1.png)
 
 ## Phrase marquante de l'OBC 2015
 
